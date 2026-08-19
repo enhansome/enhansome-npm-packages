@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6498492,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148133
+            "stars": 148132
           }
         },
         {
@@ -24,11 +25,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6498492,
             "language": "JavaScript",
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148133
+            "stars": 148132
           }
         },
         {
@@ -38,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23088740,
             "language": "JavaScript",
             "last_commit": "2026-08-18T10:13:13Z",
             "owner": "axios",
             "repo": "axios",
-            "stars": 109197
+            "stars": 109198
           }
         },
         {
@@ -52,11 +55,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 557980,
             "language": "TypeScript",
             "last_commit": "2026-07-24T14:44:59Z",
             "owner": "socketio",
             "repo": "socket.io",
-            "stars": 63189
+            "stars": 63190
           }
         },
         {
@@ -66,11 +70,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3955647,
             "language": "JavaScript",
             "last_commit": "2026-07-03T19:48:01Z",
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61290
+            "stars": 61291
           }
         },
         {
@@ -80,11 +85,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1424470,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T23:56:30Z",
+            "last_commit": "2026-08-19T06:57:23Z",
             "owner": "moment",
             "repo": "moment",
-            "stars": 47914
+            "stars": 47915
           }
         },
         {
@@ -94,11 +100,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2096579,
             "language": "JavaScript",
             "last_commit": "2026-08-18T16:36:02Z",
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37062
+            "stars": 37064
           }
         },
         {
@@ -108,11 +115,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24841635,
             "language": "TypeScript",
             "last_commit": "2026-08-10T08:47:59Z",
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36628
+            "stars": 36631
           }
         },
         {
@@ -122,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2541284,
             "language": "TypeScript",
             "last_commit": "2026-08-19T03:17:30Z",
             "owner": "cheeriojs",
@@ -136,11 +145,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 790359,
             "language": "TypeScript",
             "last_commit": "2026-08-16T00:22:55Z",
             "owner": "sequelize",
             "repo": "sequelize",
-            "stars": 30372
+            "stars": 30371
           }
         },
         {
@@ -150,6 +160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 597879,
             "language": "JavaScript",
             "last_commit": "2026-08-19T04:06:05Z",
             "owner": "Automattic",
@@ -164,11 +175,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11061773,
             "language": "JavaScript",
             "last_commit": "2026-08-18T16:33:39Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27459
+            "stars": 27461
           }
         },
         {
@@ -178,11 +190,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 349241,
             "language": "JavaScript",
             "last_commit": "2026-08-12T13:38:20Z",
             "owner": "jashkenas",
             "repo": "underscore",
-            "stars": 27332
+            "stars": 27333
           }
         },
         {
@@ -192,11 +205,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 99401299,
             "language": "JavaScript",
             "last_commit": "2026-08-10T20:13:57Z",
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26937
+            "stars": 26938
           }
         },
         {
@@ -206,6 +220,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1283503,
             "language": "JavaScript",
             "last_commit": "2024-08-14T00:09:41Z",
             "owner": "request",
@@ -220,6 +235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10851820,
             "language": "JavaScript",
             "last_commit": "2026-07-26T15:18:52Z",
             "owner": "ramda",
@@ -234,11 +250,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 965782,
             "language": "JavaScript",
             "last_commit": "2026-08-15T19:20:16Z",
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23738
+            "stars": 23737
           }
         },
         {
@@ -248,6 +265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2540368,
             "language": "JavaScript",
             "last_commit": "2024-08-16T21:56:14Z",
             "owner": "jaredhanson",
@@ -262,6 +280,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 28249537,
             "language": "TypeScript",
             "last_commit": "2026-08-13T00:31:06Z",
             "owner": "markdown-it",
@@ -276,6 +295,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12670444,
             "language": "JavaScript",
             "last_commit": "2024-11-07T20:26:46Z",
             "owner": "petkaantonov",
@@ -290,11 +310,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11081405,
             "language": "JavaScript",
             "last_commit": "2026-06-25T15:23:15Z",
             "owner": "auth0",
             "repo": "node-jsonwebtoken",
-            "stars": 18190
+            "stars": 18191
           }
         },
         {
@@ -304,11 +325,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51840802,
             "language": "JavaScript",
             "last_commit": "2026-08-13T18:52:54Z",
             "owner": "pinojs",
             "repo": "pino",
-            "stars": 18144
+            "stars": 18145
           }
         },
         {
@@ -318,11 +340,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1203139,
             "language": "TypeScript",
             "last_commit": "2026-08-18T18:19:21Z",
             "owner": "uuidjs",
             "repo": "uuid",
-            "stars": 15318
+            "stars": 15319
           }
         },
         {
@@ -332,6 +355,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35914020,
             "language": "TypeScript",
             "last_commit": "2026-05-12T07:38:47Z",
             "owner": "ajv-validator",
@@ -346,6 +370,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 795421,
             "language": "JavaScript",
             "last_commit": "2026-08-14T20:26:27Z",
             "owner": "http-party",
@@ -360,6 +385,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2871998,
             "language": "JavaScript",
             "last_commit": "2026-04-01T12:03:30Z",
             "owner": "debug-js",
@@ -374,6 +400,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 687836,
             "language": "JavaScript",
             "last_commit": "2024-09-27T16:10:21Z",
             "owner": "senchalabs",
@@ -388,6 +415,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2791348,
             "language": "JavaScript",
             "last_commit": "2026-07-23T19:51:59Z",
             "owner": "jprichardson",
@@ -402,6 +430,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1963063,
             "language": "JavaScript",
             "last_commit": "2024-02-12T17:05:49Z",
             "owner": "Automattic",
@@ -416,11 +445,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2504175,
             "language": "TypeScript",
             "last_commit": "2026-08-14T09:30:53Z",
             "owner": "nodeca",
             "repo": "js-yaml",
-            "stars": 6621
+            "stars": 6622
           }
         },
         {
@@ -430,6 +460,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 43512914,
             "language": "TypeScript",
             "last_commit": "2025-11-16T14:11:37Z",
             "owner": "kentcdodds",
@@ -444,6 +475,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1130565,
             "language": "JavaScript",
             "last_commit": "2026-08-18T23:45:21Z",
             "owner": "node-config",
@@ -458,6 +490,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 475599,
             "language": "JavaScript",
             "last_commit": "2026-07-25T20:53:06Z",
             "owner": "log4js-node",
@@ -472,6 +505,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1357199,
             "language": "JavaScript",
             "last_commit": "2026-07-02T06:23:10Z",
             "owner": "npm",
@@ -486,6 +520,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 779570,
             "language": "JavaScript",
             "last_commit": "2026-03-25T20:58:31Z",
             "owner": "digitalbazaar",
@@ -500,6 +535,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 938475,
             "language": "JavaScript",
             "last_commit": "2026-08-05T08:26:46Z",
             "owner": "adaltas",
@@ -514,6 +550,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1549544,
             "language": "JavaScript",
             "last_commit": "2026-07-25T21:37:57Z",
             "owner": "indexzero",
@@ -528,11 +565,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9784843,
             "language": "JavaScript",
             "last_commit": "2026-07-20T20:59:39Z",
             "owner": "dcodeIO",
             "repo": "bcrypt.js",
-            "stars": 3796
+            "stars": 3797
           }
         },
         {
@@ -542,6 +580,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18469325,
             "language": "JavaScript",
             "last_commit": "2026-08-13T23:38:37Z",
             "owner": "sindresorhus",
@@ -556,6 +595,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10308334,
             "language": "JavaScript",
             "last_commit": "2024-05-31T20:04:04Z",
             "owner": "mscdex",
@@ -570,6 +610,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 21159390,
             "language": "JavaScript",
             "last_commit": "2019-05-12T10:01:36Z",
             "owner": "gcanti",
@@ -584,6 +625,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3602669,
             "language": "JavaScript",
             "last_commit": "2026-08-14T05:13:13Z",
             "owner": "avoidwork",
@@ -598,6 +640,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 949801,
             "language": "JavaScript",
             "last_commit": "2019-09-09T01:52:25Z",
             "owner": "squaremo",
@@ -612,6 +655,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19380178,
             "language": "JavaScript",
             "last_commit": "2026-06-02T16:15:48Z",
             "owner": "jshttp",
@@ -626,6 +670,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61670221,
             "language": "TypeScript",
             "last_commit": "2026-07-21T15:56:22Z",
             "owner": "sindresorhus",
@@ -640,6 +685,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21078071,
             "language": "JavaScript",
             "last_commit": "2026-07-21T15:58:02Z",
             "owner": "sindresorhus",
@@ -654,11 +700,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22914463,
             "language": "TypeScript",
             "last_commit": "2025-02-07T08:30:10Z",
             "owner": "omnidan",
             "repo": "node-emoji",
-            "stars": 1342
+            "stars": 1341
           }
         },
         {
@@ -668,6 +715,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16671126,
             "language": "JavaScript",
             "last_commit": "2026-07-15T16:58:15Z",
             "owner": "sindresorhus",
@@ -682,6 +730,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2077020,
             "language": "JavaScript",
             "last_commit": "2025-10-25T19:00:09Z",
             "owner": "isaacs",
@@ -696,6 +745,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17057343,
             "language": "JavaScript",
             "last_commit": "2024-02-23T07:19:13Z",
             "owner": "alexeyten",
@@ -710,6 +760,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2018652,
             "language": "JavaScript",
             "last_commit": "2025-11-21T21:38:03Z",
             "owner": "http-party",
@@ -724,6 +775,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23100405,
             "language": "JavaScript",
             "last_commit": "2026-06-07T12:57:39Z",
             "owner": "thejoshwolfe",
@@ -738,6 +790,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 46072466,
             "language": "JavaScript",
             "last_commit": "2025-10-31T16:34:15Z",
             "owner": "sindresorhus",
@@ -752,6 +805,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36540283,
             "language": "TypeScript",
             "last_commit": "2026-02-24T13:00:06Z",
             "owner": "node-modules",
@@ -766,6 +820,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3121472,
             "language": "JavaScript",
             "last_commit": "2026-02-07T20:03:22Z",
             "owner": "jergason",
@@ -780,6 +835,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4803056,
             "language": "JavaScript",
             "last_commit": "2020-12-18T13:23:05Z",
             "owner": "npm",
@@ -794,6 +850,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25002984,
             "language": "JavaScript",
             "last_commit": "2026-06-18T16:25:09Z",
             "owner": "npm",
@@ -808,6 +865,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19139100,
             "language": "JavaScript",
             "last_commit": "2020-04-24T07:05:35Z",
             "owner": "kodie",
@@ -822,6 +880,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 31586404,
             "language": "JavaScript",
             "last_commit": "2024-09-17T02:57:34Z",
             "owner": "royriojas",
@@ -836,6 +895,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15630862,
             "language": "JavaScript",
             "last_commit": "2023-07-28T08:13:47Z",
             "owner": "jonschlinkert",
@@ -850,6 +910,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34965664,
             "language": "JavaScript",
             "last_commit": "2022-03-03T14:44:23Z",
             "owner": "sindresorhus",
@@ -864,6 +925,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 73689574,
             "language": "JavaScript",
             "last_commit": "2025-09-09T16:16:07Z",
             "owner": "sindresorhus",
@@ -878,24 +940,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25381825,
             "language": "JavaScript",
             "last_commit": "2025-09-09T12:31:36Z",
             "owner": "sindresorhus",
             "repo": "node-dark-mode",
             "stars": 120
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mkdirp",
-          "description": "Shell 命令 的实现。",
-          "children": []
         }
       ],
       "title": "工具库"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -904,11 +961,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 237159,
             "language": "JavaScript",
             "last_commit": "2026-08-01T09:58:10Z",
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69381
+            "stars": 69382
           }
         },
         {
@@ -918,11 +976,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T17:16:09Z",
+            "last_commit": "2026-08-19T10:50:38Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44810
+            "stars": 44809
           }
         },
         {
@@ -932,11 +991,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 69495170,
             "language": "JavaScript",
             "last_commit": "2026-08-19T01:54:35Z",
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37005
+            "stars": 37007
           }
         },
         {
@@ -946,6 +1006,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11551538,
             "language": "JavaScript",
             "last_commit": "2026-08-11T12:48:44Z",
             "owner": "koajs",
@@ -960,6 +1021,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 61421257,
             "language": "TypeScript",
             "last_commit": "2026-08-07T12:08:56Z",
             "owner": "eggjs",
@@ -974,8 +1036,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2163263,
             "language": "JavaScript",
-            "last_commit": "2026-07-22T09:04:56Z",
+            "last_commit": "2026-08-19T12:25:49Z",
             "owner": "hapijs",
             "repo": "hapi",
             "stars": 14792
@@ -988,11 +1051,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1661758,
             "language": "JavaScript",
             "last_commit": "2026-08-18T16:56:41Z",
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10686
+            "stars": 10685
           }
         },
         {
@@ -1002,6 +1066,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50224698,
             "language": "TypeScript",
             "last_commit": "2026-05-21T17:54:02Z",
             "owner": "vercel",
@@ -1013,7 +1078,7 @@
       "title": "网络服务框架"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1022,6 +1087,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16386099,
             "language": "JavaScript",
             "last_commit": "2026-08-05T14:00:08Z",
             "owner": "expressjs",
@@ -1036,6 +1102,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3329923,
             "language": "TypeScript",
             "last_commit": "2026-08-01T00:02:40Z",
             "owner": "helmetjs",
@@ -1050,6 +1117,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16650937,
             "language": "JavaScript",
             "last_commit": "2026-08-02T16:29:10Z",
             "owner": "expressjs",
@@ -1064,6 +1132,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16875250,
             "language": "JavaScript",
             "last_commit": "2026-08-05T08:41:25Z",
             "owner": "expressjs",
@@ -1078,6 +1147,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2518028,
             "language": "TypeScript",
             "last_commit": "2026-08-09T09:25:52Z",
             "owner": "express-validator",
@@ -1092,6 +1162,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7929498,
             "language": "JavaScript",
             "last_commit": "2026-06-02T20:00:40Z",
             "owner": "expressjs",
@@ -1106,6 +1177,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15669006,
             "language": "JavaScript",
             "last_commit": "2026-08-14T16:20:14Z",
             "owner": "expressjs",
@@ -1120,6 +1192,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 771088,
             "language": "TypeScript",
             "last_commit": "2026-07-24T20:25:11Z",
             "owner": "tj",
@@ -1134,6 +1207,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15571957,
             "language": "JavaScript",
             "last_commit": "2026-08-05T08:38:37Z",
             "owner": "expressjs",
@@ -1148,6 +1222,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 17430647,
             "language": null,
             "last_commit": "2025-05-14T13:34:34Z",
             "owner": "expressjs",
@@ -1162,6 +1237,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16866357,
             "language": "JavaScript",
             "last_commit": "2026-06-03T01:07:15Z",
             "owner": "expressjs",
@@ -1176,6 +1252,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17464338,
             "language": "JavaScript",
             "last_commit": "2026-01-03T18:08:02Z",
             "owner": "expressjs",
@@ -1190,6 +1267,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17106306,
             "language": "JavaScript",
             "last_commit": "2026-08-05T13:59:19Z",
             "owner": "expressjs",
@@ -1204,6 +1282,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17430308,
             "language": "JavaScript",
             "last_commit": "2026-08-09T09:45:27Z",
             "owner": "expressjs",
@@ -1218,6 +1297,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16514286,
             "language": "JavaScript",
             "last_commit": "2026-02-01T09:29:05Z",
             "owner": "expressjs",
@@ -1232,6 +1312,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16650307,
             "language": "JavaScript",
             "last_commit": "2026-06-03T02:19:56Z",
             "owner": "expressjs",
@@ -1246,6 +1327,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17459063,
             "language": "JavaScript",
             "last_commit": "2026-08-05T14:00:57Z",
             "owner": "expressjs",
@@ -1260,6 +1342,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17359035,
             "language": "JavaScript",
             "last_commit": "2026-06-01T04:59:02Z",
             "owner": "expressjs",
@@ -1274,6 +1357,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17359642,
             "language": "JavaScript",
             "last_commit": "2026-06-03T01:07:15Z",
             "owner": "expressjs",
@@ -1285,7 +1369,7 @@
       "title": "Express 中间件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1294,6 +1378,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12499274,
             "language": "JavaScript",
             "last_commit": "2026-02-28T11:03:43Z",
             "owner": "ZijianHe",
@@ -1308,6 +1393,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16346957,
             "language": "JavaScript",
             "last_commit": "2024-09-10T02:34:25Z",
             "owner": "koajs",
@@ -1322,6 +1408,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16918137,
             "language": "TypeScript",
             "last_commit": "2026-08-03T01:24:06Z",
             "owner": "koajs",
@@ -1336,6 +1423,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12182834,
             "language": "JavaScript",
             "last_commit": "2025-10-20T17:16:30Z",
             "owner": "koajs",
@@ -1350,6 +1438,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14187683,
             "language": "TypeScript",
             "last_commit": "2025-04-06T22:00:42Z",
             "owner": "koajs",
@@ -1364,6 +1453,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18251855,
             "language": "TypeScript",
             "last_commit": "2026-04-10T01:53:50Z",
             "owner": "venables",
@@ -1378,6 +1468,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12174085,
             "language": "JavaScript",
             "last_commit": "2025-06-13T00:45:08Z",
             "owner": "koajs",
@@ -1392,6 +1483,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14376847,
             "language": "JavaScript",
             "last_commit": "2025-06-05T19:54:42Z",
             "owner": "koajs",
@@ -1406,6 +1498,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12238295,
             "language": "JavaScript",
             "last_commit": "2026-08-15T09:02:45Z",
             "owner": "koajs",
@@ -1420,6 +1513,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15478900,
             "language": "JavaScript",
             "last_commit": "2025-05-19T06:02:20Z",
             "owner": "koajs",
@@ -1434,6 +1528,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12242512,
             "language": "JavaScript",
             "last_commit": "2025-04-10T23:10:49Z",
             "owner": "koajs",
@@ -1448,6 +1543,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14197336,
             "language": "JavaScript",
             "last_commit": "2022-07-02T05:14:19Z",
             "owner": "koajs",
@@ -1462,6 +1558,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 33353966,
             "language": "JavaScript",
             "last_commit": "2018-10-05T07:22:54Z",
             "owner": "koa-modules",
@@ -1476,6 +1573,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12824114,
             "language": "JavaScript",
             "last_commit": "2024-04-24T20:43:09Z",
             "owner": "koajs",
@@ -1490,6 +1588,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35725924,
             "language": "JavaScript",
             "last_commit": "2026-02-03T10:18:16Z",
             "owner": "koajs",
@@ -1504,6 +1603,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17082894,
             "language": "JavaScript",
             "last_commit": "2024-03-31T16:17:55Z",
             "owner": "koajs",
@@ -1515,7 +1615,7 @@
       "title": "Koa 中间件"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1524,6 +1624,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1451352,
             "language": "JavaScript",
             "last_commit": "2026-08-19T01:42:52Z",
             "owner": "mochajs",
@@ -1538,6 +1639,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 26820798,
             "language": "JavaScript",
             "last_commit": "2026-06-17T10:19:10Z",
             "owner": "avajs",
@@ -1552,6 +1654,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4813464,
             "language": "JavaScript",
             "last_commit": "2026-04-02T04:24:49Z",
             "owner": "forwardemail",
@@ -1566,6 +1669,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5775917,
             "language": "JavaScript",
             "last_commit": "2024-12-08T15:50:22Z",
             "owner": "gotwarlost",
@@ -1580,6 +1684,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2931111,
             "language": "JavaScript",
             "last_commit": "2026-08-17T09:06:20Z",
             "owner": "chaijs",
@@ -1594,6 +1699,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 35312458,
             "language": "JavaScript",
             "last_commit": "2026-05-17T16:05:31Z",
             "owner": "istanbuljs",
@@ -1608,6 +1714,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4539386,
             "language": "JavaScript",
             "last_commit": "2025-12-11T21:43:31Z",
             "owner": "jhnns",
@@ -1622,6 +1729,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12260386,
             "language": "JavaScript",
             "last_commit": "2023-01-07T03:57:23Z",
             "owner": "power-assert-js",
@@ -1636,6 +1744,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3008757,
             "language": "JavaScript",
             "last_commit": "2023-01-14T22:56:32Z",
             "owner": "Automattic",
@@ -1650,6 +1759,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 20254814,
             "language": "JavaScript",
             "last_commit": "2019-10-29T20:12:58Z",
             "owner": "shouldjs",
@@ -1664,6 +1774,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14238815,
             "language": "JavaScript",
             "last_commit": "2026-03-01T01:14:19Z",
             "owner": "tschaub",
@@ -1678,6 +1789,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 24736974,
             "language": "JavaScript",
             "last_commit": "2021-03-15T12:36:02Z",
             "owner": "boblauer",
@@ -1692,6 +1804,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15558686,
             "language": "JavaScript",
             "last_commit": "2026-01-25T08:15:11Z",
             "owner": "sindresorhus",
@@ -1706,24 +1819,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15558013,
             "language": "JavaScript",
             "last_commit": "2026-01-25T07:56:47Z",
             "owner": "sindresorhus",
             "repo": "tempfile",
             "stars": 82
           }
-        },
-        {
-          "node_type": "item",
-          "title": "faker",
-          "description": "让你在 Node 端和浏览器轻松构建大量用户信息的模拟数据。",
-          "children": []
         }
       ],
       "title": "测试工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -1732,11 +1840,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14747598,
             "language": "JavaScript",
             "last_commit": "2026-03-23T19:40:00Z",
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75690
+            "stars": 75691
           }
         },
         {
@@ -1746,6 +1855,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10187082,
             "language": "JavaScript",
             "last_commit": "2026-07-02T10:09:15Z",
             "owner": "Unitech",
@@ -1760,11 +1870,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49970642,
             "language": "JavaScript",
             "last_commit": "2026-05-12T11:09:42Z",
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41486
+            "stars": 41487
           }
         },
         {
@@ -1774,6 +1885,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47394776,
             "language": "TypeScript",
             "last_commit": "2026-08-17T09:58:06Z",
             "owner": "lerna",
@@ -1788,11 +1900,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11061773,
             "language": "JavaScript",
             "last_commit": "2026-08-18T16:33:39Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27459
+            "stars": 27461
           }
         },
         {
@@ -1802,11 +1915,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 958314,
             "language": "JavaScript",
             "last_commit": "2026-08-03T16:53:59Z",
             "owner": "remy",
             "repo": "nodemon",
-            "stars": 26680
+            "stars": 26679
           }
         },
         {
@@ -1816,11 +1930,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50586840,
             "language": "JavaScript",
             "last_commit": "2026-08-17T11:50:39Z",
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18200
+            "stars": 18201
           }
         },
         {
@@ -1830,6 +1945,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 321278,
             "language": null,
             "last_commit": "2020-08-07T14:31:21Z",
             "owner": "npm",
@@ -1844,6 +1960,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34230966,
             "language": "JavaScript",
             "last_commit": "2026-08-11T23:42:06Z",
             "owner": "commitizen",
@@ -1858,6 +1975,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 441269,
             "language": "CoffeeScript",
             "last_commit": "2024-03-22T14:04:00Z",
             "owner": "jashkenas",
@@ -1872,6 +1990,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 781028,
             "language": "JavaScript",
             "last_commit": "2018-02-08T23:01:21Z",
             "owner": "node-inspector",
@@ -1886,6 +2005,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4030574,
             "language": "JavaScript",
             "last_commit": "2021-01-25T02:54:35Z",
             "owner": "ksky521",
@@ -1900,6 +2020,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57182064,
             "language": "TypeScript",
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
@@ -1914,6 +2035,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27015948,
             "language": "JavaScript",
             "last_commit": "2025-07-25T14:50:41Z",
             "owner": "vvo",
@@ -1928,6 +2050,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 139448014,
             "language": "TypeScript",
             "last_commit": "2025-11-14T13:08:50Z",
             "owner": "mixn",
@@ -1942,6 +2065,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 27417231,
             "language": "JavaScript",
             "last_commit": "2022-12-30T18:18:29Z",
             "owner": "aui",
@@ -1956,6 +2080,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 74069926,
             "language": "JavaScript",
             "last_commit": "2026-08-04T13:10:08Z",
             "owner": "carloscuesta",
@@ -1970,11 +2095,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17277700,
             "language": "TypeScript",
             "last_commit": "2025-07-13T02:08:58Z",
             "owner": "Pana",
             "repo": "nrm",
-            "stars": 3012
+            "stars": 3013
           }
         },
         {
@@ -1984,6 +2110,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14343981,
             "language": "JavaScript",
             "last_commit": "2025-06-19T01:58:31Z",
             "owner": "bubenshchykov",
@@ -1998,6 +2125,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14562056,
             "language": "TypeScript",
             "last_commit": "2026-07-10T17:09:49Z",
             "owner": "ionic-team",
@@ -2012,6 +2140,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14570945,
             "language": "JavaScript",
             "last_commit": "2026-03-02T12:15:52Z",
             "owner": "expressjs",
@@ -2026,11 +2155,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 44158428,
             "language": "JavaScript",
             "last_commit": "2026-02-02T05:21:20Z",
             "owner": "sindresorhus",
             "repo": "trash-cli",
-            "stars": 1407
+            "stars": 1408
           }
         },
         {
@@ -2040,6 +2170,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18034500,
             "language": "JavaScript",
             "last_commit": "2018-11-04T18:52:34Z",
             "owner": "slushjs",
@@ -2054,6 +2185,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5598440,
             "language": "JavaScript",
             "last_commit": "2020-06-24T03:51:12Z",
             "owner": "leeluolee",
@@ -2068,6 +2200,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47414590,
             "language": "JavaScript",
             "last_commit": "2023-02-07T23:57:27Z",
             "owner": "i5ting",
@@ -2082,6 +2215,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29676555,
             "language": "JavaScript",
             "last_commit": "2024-06-05T04:28:15Z",
             "owner": "GitbookIO",
@@ -2096,6 +2230,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24563457,
             "language": "JavaScript",
             "last_commit": "2020-12-24T13:30:24Z",
             "owner": "ecomfe",
@@ -2110,11 +2245,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17348050,
             "language": "JavaScript",
             "last_commit": "2026-08-11T03:38:58Z",
             "owner": "tldr-pages",
             "repo": "tldr-node-client",
-            "stars": 461
+            "stars": 462
           }
         },
         {
@@ -2124,6 +2260,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 51465937,
             "language": "JavaScript",
             "last_commit": "2023-11-29T05:39:43Z",
             "owner": "npms-io",
@@ -2138,6 +2275,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24308450,
             "language": "JavaScript",
             "last_commit": "2019-06-25T12:25:21Z",
             "owner": "meandavejustice",
@@ -2152,6 +2290,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 30630396,
             "language": "TypeScript",
             "last_commit": "2026-07-14T16:12:19Z",
             "owner": "hexojs",
@@ -2166,6 +2305,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 50278100,
             "language": "JavaScript",
             "last_commit": "2017-06-08T06:02:23Z",
             "owner": "linhe0x0",
@@ -2180,6 +2320,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 52494278,
             "language": "JavaScript",
             "last_commit": "2021-12-25T14:32:03Z",
             "owner": "egoist",
@@ -2191,7 +2332,7 @@
       "title": "命令行工具"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2200,8 +2341,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2206953,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T04:06:15Z",
+            "last_commit": "2026-08-19T10:22:35Z",
             "owner": "tj",
             "repo": "commander.js",
             "stars": 28365
@@ -2214,6 +2356,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11855195,
             "language": "JavaScript",
             "last_commit": "2026-07-26T14:51:04Z",
             "owner": "chalk",
@@ -2228,6 +2371,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10114077,
             "language": "TypeScript",
             "last_commit": "2026-08-17T21:18:24Z",
             "owner": "SBoudrias",
@@ -2242,6 +2386,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3604157,
             "language": "JavaScript",
             "last_commit": "2026-08-12T11:13:48Z",
             "owner": "shelljs",
@@ -2256,6 +2401,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4090287,
             "language": "TypeScript",
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
@@ -2270,6 +2416,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14210523,
             "language": "JavaScript",
             "last_commit": "2026-08-07T03:15:41Z",
             "owner": "yargs",
@@ -2284,6 +2431,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 53072654,
             "language": "JavaScript",
             "last_commit": "2026-06-22T22:14:56Z",
             "owner": "sindresorhus",
@@ -2298,11 +2446,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128658421,
             "language": "JavaScript",
             "last_commit": "2026-04-06T20:08:22Z",
             "owner": "klaudiosinani",
             "repo": "signale",
-            "stars": 9177
+            "stars": 9176
           }
         },
         {
@@ -2312,6 +2461,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 357681,
             "language": "TypeScript",
             "last_commit": "2026-06-22T18:02:28Z",
             "owner": "isaacs",
@@ -2326,6 +2476,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47475908,
             "language": "JavaScript",
             "last_commit": "2026-07-31T02:10:22Z",
             "owner": "sindresorhus",
@@ -2340,6 +2491,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 127546642,
             "language": "TypeScript",
             "last_commit": "2026-08-18T19:36:45Z",
             "owner": "unjs",
@@ -2354,6 +2506,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6965529,
             "language": "JavaScript",
             "last_commit": "2024-06-24T13:43:42Z",
             "owner": "mikaelbr",
@@ -2368,6 +2521,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5283193,
             "language": "JavaScript",
             "last_commit": "2026-05-27T21:22:45Z",
             "owner": "mscdex",
@@ -2382,6 +2536,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 715168,
             "language": "JavaScript",
             "last_commit": "2023-06-14T06:56:47Z",
             "owner": "Marak",
@@ -2396,6 +2551,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 81380993,
             "language": "TypeScript",
             "last_commit": "2024-01-03T21:58:32Z",
             "owner": "mattallty",
@@ -2410,6 +2566,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1643317,
             "language": "JavaScript",
             "last_commit": "2023-02-13T23:42:44Z",
             "owner": "visionmedia",
@@ -2424,6 +2581,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 75538424,
             "language": "JavaScript",
             "last_commit": "2026-07-23T11:44:38Z",
             "owner": "sindresorhus",
@@ -2438,11 +2596,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7069389,
             "language": "JavaScript",
             "last_commit": "2026-07-25T12:05:02Z",
             "owner": "sindresorhus",
             "repo": "update-notifier",
-            "stars": 1806
+            "stars": 1807
           }
         },
         {
@@ -2452,6 +2611,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48394154,
             "language": "JavaScript",
             "last_commit": "2025-09-19T03:55:38Z",
             "owner": "sindresorhus",
@@ -2466,6 +2626,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5424019,
             "language": "JavaScript",
             "last_commit": "2024-08-20T06:56:14Z",
             "owner": "indutny",
@@ -2480,6 +2641,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 57441522,
             "language": "JavaScript",
             "last_commit": "2023-02-27T16:30:17Z",
             "owner": "leo",
@@ -2494,6 +2656,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 9533606,
             "language": "JavaScript",
             "last_commit": "2023-02-19T09:21:30Z",
             "owner": "sindresorhus",
@@ -2508,6 +2671,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 128489629,
             "language": "JavaScript",
             "last_commit": "2024-06-10T09:41:53Z",
             "owner": "vercel",
@@ -2522,6 +2686,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 41905436,
             "language": "JavaScript",
             "last_commit": "2026-02-02T19:08:22Z",
             "owner": "sindresorhus",
@@ -2536,6 +2701,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 12445081,
             "language": "JavaScript",
             "last_commit": "2015-11-15T20:51:34Z",
             "owner": "tj",
@@ -2550,24 +2716,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 43117476,
             "language": "JavaScript",
             "last_commit": "2015-10-12T07:57:01Z",
             "owner": "aloksguha",
             "repo": "myip",
             "stars": 5
           }
-        },
-        {
-          "node_type": "item",
-          "title": "mkdirp",
-          "description": "命令的 Node 实现。",
-          "children": []
         }
       ],
       "title": "命令行开发工具库"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2576,6 +2737,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 42751014,
             "language": "JavaScript",
             "last_commit": "2026-02-12T18:51:57Z",
             "owner": "zenorocha",
@@ -2590,11 +2752,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 32247847,
             "language": "TypeScript",
             "last_commit": "2026-08-08T23:15:21Z",
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31699
+            "stars": 31698
           }
         },
         {
@@ -2604,18 +2767,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 59737212,
             "language": "TypeScript",
             "last_commit": "2026-07-15T06:47:01Z",
             "owner": "antvis",
             "repo": "G2",
-            "stars": 12590
+            "stars": 12591
           }
         }
       ],
       "title": "前端 JS 库"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2624,11 +2788,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T11:16:23Z",
+            "last_commit": "2026-08-19T12:40:37Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247416
+            "stars": 247420
           }
         },
         {
@@ -2638,11 +2803,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 10270250,
             "language": "JavaScript",
-            "last_commit": "2026-08-17T11:16:23Z",
+            "last_commit": "2026-08-19T12:40:37Z",
             "owner": "react",
             "repo": "react",
-            "stars": 247416
+            "stars": 247420
           }
         },
         {
@@ -2652,11 +2818,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36535156,
             "language": "TypeScript",
             "last_commit": "2026-08-02T00:52:12Z",
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61507
+            "stars": 61508
           }
         },
         {
@@ -2666,11 +2833,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19872456,
             "language": "TypeScript",
             "last_commit": "2026-08-18T20:28:07Z",
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56555
+            "stars": 56556
           }
         },
         {
@@ -2680,11 +2848,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19872456,
             "language": "TypeScript",
             "last_commit": "2026-08-18T20:28:07Z",
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56555
+            "stars": 56556
           }
         },
         {
@@ -2694,11 +2863,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 19872456,
             "language": "TypeScript",
             "last_commit": "2026-08-18T20:28:07Z",
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56555
+            "stars": 56556
           }
         },
         {
@@ -2708,6 +2878,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38934449,
             "language": "TypeScript",
             "last_commit": "2026-08-17T02:53:51Z",
             "owner": "reduxjs",
@@ -2722,6 +2893,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 56723754,
             "language": "TypeScript",
             "last_commit": "2026-08-11T12:57:00Z",
             "owner": "redux-observable",
@@ -2736,6 +2908,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134804788,
             "language": "JavaScript",
             "last_commit": "2022-12-08T19:53:14Z",
             "owner": "reach",
@@ -2747,7 +2920,7 @@
       "title": "React 周边"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2756,11 +2929,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11730342,
             "language": "TypeScript",
             "last_commit": "2024-10-10T07:24:15Z",
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210238
+            "stars": 210239
           }
         },
         {
@@ -2770,11 +2944,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-19T00:06:33Z",
+            "last_commit": "2026-08-19T11:50:33Z",
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41031
+            "stars": 41030
           }
         },
         {
@@ -2784,6 +2959,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 48626335,
             "language": "JavaScript",
             "last_commit": "2025-08-21T10:56:30Z",
             "owner": "vuejs",
@@ -2795,7 +2971,7 @@
       "title": "Vue 周边"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -2804,11 +2980,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-18T21:33:20Z",
+            "last_commit": "2026-08-19T11:14:09Z",
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65968
+            "stars": 65971
           }
         },
         {
@@ -2818,6 +2995,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 71966177,
             "language": "JavaScript",
             "last_commit": "2026-08-13T07:21:45Z",
             "owner": "webpack",
@@ -2832,6 +3010,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 21779020,
             "language": "JavaScript",
             "last_commit": "2023-02-10T02:42:07Z",
             "owner": "gaearon",
@@ -2846,6 +3025,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22744595,
             "language": "JavaScript",
             "last_commit": "2026-07-25T11:17:58Z",
             "owner": "jantimon",
@@ -2860,6 +3040,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3954884,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:43:52Z",
             "owner": "webpack",
@@ -2874,6 +3055,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 16297741,
             "language": "JavaScript",
             "last_commit": "2019-05-29T11:48:46Z",
             "owner": "webpack-contrib",
@@ -2888,6 +3070,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16665655,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:35:02Z",
             "owner": "webpack",
@@ -2902,6 +3085,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45010048,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:42:12Z",
             "owner": "webpack",
@@ -2916,6 +3100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38106307,
             "language": "TypeScript",
             "last_commit": "2024-07-12T06:35:58Z",
             "owner": "survivejs",
@@ -2930,8 +3115,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5347074,
             "language": "JavaScript",
-            "last_commit": "2026-08-09T11:02:51Z",
+            "last_commit": "2026-08-19T10:34:06Z",
             "owner": "webpack",
             "repo": "webpack-dev-middleware",
             "stars": 2511
@@ -2944,6 +3130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 34994276,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:55:40Z",
             "owner": "webpack",
@@ -2958,6 +3145,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4253587,
             "language": "JavaScript",
             "last_commit": "2021-03-05T11:12:45Z",
             "owner": "webpack-contrib",
@@ -2972,6 +3160,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3954886,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:59:49Z",
             "owner": "webpack",
@@ -2986,6 +3175,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 4317511,
             "language": "JavaScript",
             "last_commit": "2021-03-15T14:54:21Z",
             "owner": "webpack-contrib",
@@ -3000,6 +3190,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49304920,
             "language": "JavaScript",
             "last_commit": "2022-12-07T17:53:46Z",
             "owner": "NMFR",
@@ -3014,6 +3205,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 115440393,
             "language": "JavaScript",
             "last_commit": "2018-09-18T09:57:09Z",
             "owner": "webpack-contrib",
@@ -3028,6 +3220,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 27577616,
             "language": "JavaScript",
             "last_commit": "2020-09-27T13:43:24Z",
             "owner": "webpack-contrib",
@@ -3042,6 +3235,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4192593,
             "language": "JavaScript",
             "last_commit": "2026-08-12T19:50:50Z",
             "owner": "webpack",
@@ -3056,6 +3250,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 65410396,
             "language": "JavaScript",
             "last_commit": "2021-06-16T00:02:45Z",
             "owner": "geowarin",
@@ -3070,6 +3265,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3948748,
             "language": "JavaScript",
             "last_commit": "2022-07-28T15:17:26Z",
             "owner": "pugjs",
@@ -3081,7 +3277,7 @@
       "title": "webpack 周边"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3090,11 +3286,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3104,11 +3301,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3118,11 +3316,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3132,11 +3331,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3146,11 +3346,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3160,11 +3361,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24560307,
             "language": "TypeScript",
             "last_commit": "2026-08-16T08:21:06Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43987
           }
         },
         {
@@ -3174,6 +3376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24963784,
             "language": "JavaScript",
             "last_commit": "2026-08-04T14:59:39Z",
             "owner": "babel",
@@ -3185,7 +3388,7 @@
       "title": "babel 周边"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -3194,11 +3397,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11167738,
             "language": "JavaScript",
             "last_commit": "2026-02-09T06:30:13Z",
             "owner": "gulpjs",
             "repo": "gulp",
-            "stars": 32950
+            "stars": 32951
           }
         },
         {
@@ -3208,6 +3412,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15533082,
             "language": "JavaScript",
             "last_commit": "2025-11-11T06:45:37Z",
             "owner": "sindresorhus",
@@ -3222,6 +3427,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24635108,
             "language": "JavaScript",
             "last_commit": "2026-07-21T18:39:23Z",
             "owner": "babel",
@@ -3236,6 +3442,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11188838,
             "language": "JavaScript",
             "last_commit": "2021-06-23T02:51:11Z",
             "owner": "terinjokes",
@@ -3250,6 +3457,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23041299,
             "language": "JavaScript",
             "last_commit": "2024-02-06T10:48:07Z",
             "owner": "postcss",
@@ -3264,6 +3472,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 16014885,
             "language": "JavaScript",
             "last_commit": "2025-10-07T11:06:24Z",
             "owner": "sindresorhus",
@@ -3278,6 +3487,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14921398,
             "language": "JavaScript",
             "last_commit": "2025-07-16T05:30:05Z",
             "owner": "hparra",
@@ -3292,6 +3502,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15712612,
             "language": "JavaScript",
             "last_commit": "2020-06-19T17:01:11Z",
             "owner": "robrich",
@@ -3306,6 +3517,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 17558946,
             "language": "JavaScript",
             "last_commit": "2019-12-14T16:57:26Z",
             "owner": "shinnn",
@@ -3320,6 +3532,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11264371,
             "language": "JavaScript",
             "last_commit": "2021-06-20T16:51:24Z",
             "owner": "gulp-community",
@@ -3334,6 +3547,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15092603,
             "language": "JavaScript",
             "last_commit": "2022-12-17T16:36:56Z",
             "owner": "lazd",
@@ -3348,6 +3562,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15873537,
             "language": "JavaScript",
             "last_commit": "2017-01-08T18:01:59Z",
             "owner": "gulp-community",
@@ -3362,6 +3577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 25983616,
             "language": "JavaScript",
             "last_commit": "2015-06-22T11:44:22Z",
             "owner": "targetkiller",
@@ -3376,6 +3592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 15983348,
             "language": "JavaScript",
             "last_commit": "2020-11-26T14:19:52Z",
             "owner": "tschaub",
@@ -3390,6 +3607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 20790549,
             "language": "JavaScript",
             "last_commit": "2023-01-03T18:21:58Z",
             "owner": "Hiswe",
@@ -3404,6 +3622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18271693,
             "language": "JavaScript",
             "last_commit": "2018-05-14T11:49:16Z",
             "owner": "ahaurw01",
@@ -3418,6 +3637,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47930388,
             "language": "JavaScript",
             "last_commit": "2018-02-02T04:28:49Z",
             "owner": "weixin",
@@ -3432,6 +3652,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22144680,
             "language": "JavaScript",
             "last_commit": "2019-05-01T12:10:37Z",
             "owner": "crissdev",
@@ -3446,26 +3667,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 76860346,
             "language": "JavaScript",
             "last_commit": "2016-12-19T13:13:51Z",
             "owner": "weixin",
             "repo": "gulp-svg-inline",
             "stars": 4
           }
-        },
-        {
-          "node_type": "item",
-          "title": "gulp-cssnano",
-          "description": "在 Gulp 中使用 cssnano 进行 CSS 压缩。",
-          "children": []
         }
       ],
       "title": "gulp 周边"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T05:14:03.976Z",
+    "last_updated": "2026-08-19T12:42:50.717Z",
     "original_repository": "linhe0x0/awesome-npm-packages",
+    "original_repository_id": 79244101,
     "original_repository_sha": "c3e8040e3d9e32cc179209ab7e75b130be3ca2e2",
     "enhanced_repository": "enhansome/enhansome-npm-packages",
     "enhanced_repository_description": null,
