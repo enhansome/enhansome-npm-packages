@@ -10,12 +10,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -26,12 +46,32 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript Style Guide",
+            "homepage": null,
             "id": 6498492,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-16T19:24:09Z",
+            "open_issues": 163,
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148144
+            "stars": 148144,
+            "topics": [
+              "arrow-functions",
+              "es2015",
+              "es2016",
+              "es2017",
+              "es2018",
+              "es6",
+              "eslint",
+              "javascript",
+              "linting",
+              "naming-conventions",
+              "style-guide",
+              "style-linter",
+              "styleguide",
+              "tc39"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -42,12 +82,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Promise based HTTP client for the browser and node.js",
+            "homepage": "https://axios-http.com",
             "id": 23088740,
             "language": "JavaScript",
-            "last_commit": "2026-08-27T15:40:25Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T19:18:21Z",
+            "open_issues": 78,
             "owner": "axios",
             "repo": "axios",
-            "stars": 109193
+            "stars": 109192,
+            "topics": [
+              "hacktoberfest",
+              "http-client",
+              "javascript",
+              "nodejs",
+              "promise"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -58,12 +109,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bidirectional and low-latency communication for every platform",
+            "homepage": "https://socket.io",
             "id": 557980,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T14:44:59Z",
+            "open_issues": 200,
             "owner": "socketio",
             "repo": "socket.io",
-            "stars": 63208
+            "stars": 63209,
+            "topics": [
+              "javascript",
+              "nodejs",
+              "socket-io",
+              "websocket"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -74,12 +135,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modern JavaScript utility library delivering modularity, performance, & extras.",
+            "homepage": "https://lodash.com/",
             "id": 3955647,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-03T19:48:01Z",
+            "open_issues": 106,
             "owner": "lodash",
             "repo": "lodash",
-            "stars": 61283
+            "stars": 61282,
+            "topics": [
+              "javascript",
+              "lodash",
+              "modules",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -90,12 +161,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse, validate, manipulate, and display dates in javascript.",
+            "homepage": "https://momentjs.com",
             "id": 1424470,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T20:27:38Z",
+            "open_issues": 106,
             "owner": "moment",
             "repo": "moment",
-            "stars": 47913
+            "stars": 47912,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -106,12 +182,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A markdown parser and compiler. Built for speed.",
+            "homepage": "https://marked.js.org",
             "id": 2096579,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-24T16:52:10Z",
+            "open_issues": 22,
             "owner": "markedjs",
             "repo": "marked",
-            "stars": 37097
+            "stars": 37098,
+            "topics": [
+              "commonmark",
+              "compiler",
+              "gfm",
+              "hacktoberfest",
+              "markdown",
+              "parser"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -122,12 +210,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⏳ Modern JavaScript date utility library ⌛️",
+            "homepage": "https://date-fns.org",
             "id": 24841635,
             "language": "TypeScript",
+            "license": null,
             "last_commit": "2026-08-10T08:47:59Z",
+            "open_issues": 1002,
             "owner": "date-fns",
             "repo": "date-fns",
-            "stars": 36642
+            "stars": 36641,
+            "topics": [
+              "date",
+              "date-fns",
+              "hacktoberfest",
+              "javascript",
+              "modules",
+              "nodejs",
+              "time",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -138,12 +240,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fast, flexible, and elegant library for parsing and manipulating HTML and XML.",
+            "homepage": "https://cheerio.js.org",
             "id": 2541284,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T03:18:27Z",
+            "open_issues": 57,
             "owner": "cheeriojs",
             "repo": "cheerio",
-            "stars": 30471
+            "stars": 30469,
+            "topics": [
+              "cheerio",
+              "dom",
+              "hacktoberfest",
+              "html",
+              "htmlparser",
+              "htmlparser2",
+              "jquery",
+              "parser",
+              "scraper",
+              "selector"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -154,12 +272,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Feature-rich ORM for modern Node.js and TypeScript, it supports PostgreSQL (with JSON and JSONB support), MySQL, MariaDB, SQLite, MS SQL Server, Snowflake, Oracle DB, DB2 and DB2 for IBM i.",
+            "homepage": "https://sequelize.org/",
             "id": 790359,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T14:51:41Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:38:54Z",
+            "open_issues": 1081,
             "owner": "sequelize",
             "repo": "sequelize",
-            "stars": 30377
+            "stars": 30375,
+            "topics": [
+              "db2-ibm-i",
+              "feature-rich",
+              "javascript",
+              "mariadb",
+              "microsoft-sql-server",
+              "mssql",
+              "mssql-server",
+              "mysql",
+              "nodejs",
+              "oracle-db",
+              "orm",
+              "postgresql",
+              "sequelize",
+              "snowflakedb",
+              "sql",
+              "sqlite",
+              "transactions",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -170,12 +312,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find and fix problems in your JavaScript code.",
+            "homepage": "https://eslint.org",
             "id": 11061773,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T10:16:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:03:26Z",
+            "open_issues": 141,
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27488
+            "stars": 27488,
+            "topics": [
+              "ecmascript",
+              "eslint",
+              "javascript",
+              "linter",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -186,12 +339,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MongoDB object modeling designed to work in an asynchronous environment.",
+            "homepage": "https://mongoosejs.com",
             "id": 597879,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T13:02:38Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T18:53:22Z",
+            "open_issues": 169,
             "owner": "Automattic",
             "repo": "mongoose",
-            "stars": 27477
+            "stars": 27477,
+            "topics": [
+              "mongo",
+              "mongodb",
+              "nodejs",
+              "odm",
+              "orm"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -202,12 +366,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript's utility _ belt",
+            "homepage": "https://underscorejs.org",
             "id": 349241,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T13:38:20Z",
+            "open_issues": 52,
             "owner": "jashkenas",
             "repo": "underscore",
-            "stars": 27329
+            "stars": 27328,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -218,12 +387,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny (118 bytes), secure, URL-friendly, unique string ID generator for JavaScript",
+            "homepage": "https://zelark.github.io/nano-id-cc/",
             "id": 99401299,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-10T20:13:57Z",
+            "open_issues": 0,
             "owner": "ai",
             "repo": "nanoid",
-            "stars": 26952
+            "stars": 26953,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -234,12 +408,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🏊🏾 Simplified HTTP request client.",
+            "homepage": null,
             "id": 1283503,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2024-08-14T00:09:41Z",
+            "open_issues": 143,
             "owner": "request",
             "repo": "request",
-            "stars": 25512
+            "stars": 25512,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -250,12 +429,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":ram: Practical functional Javascript",
+            "homepage": "https://ramdajs.com",
             "id": 10851820,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T15:18:52Z",
+            "open_issues": 146,
             "owner": "ramda",
             "repo": "ramda",
-            "stars": 24055
+            "stars": 24055,
+            "topics": [
+              "javascript",
+              "ramda"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -266,12 +453,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "String validation",
+            "homepage": null,
             "id": 965782,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T19:20:16Z",
+            "open_issues": 489,
             "owner": "validatorjs",
             "repo": "validator.js",
-            "stars": 23738
+            "stars": 23738,
+            "topics": [
+              "hacktoberfest",
+              "input",
+              "javascript",
+              "node",
+              "sanitization",
+              "sanitize",
+              "validate",
+              "validation",
+              "validations",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -282,12 +485,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple, unobtrusive authentication for Node.js.",
+            "homepage": "https://www.passportjs.org?utm_source=github&utm_medium=referral&utm_campaign=passport&utm_content=about",
             "id": 2540368,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-16T21:56:14Z",
+            "open_issues": 398,
             "owner": "jaredhanson",
             "repo": "passport",
-            "stars": 23533
+            "stars": 23533,
+            "topics": [
+              "express",
+              "nodejs",
+              "oauth",
+              "oauth2",
+              "openid",
+              "openid-connect",
+              "passport",
+              "saml"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -298,12 +515,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed",
+            "homepage": "https://markdown-it.github.io",
             "id": 28249537,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T21:00:50Z",
+            "open_issues": 7,
             "owner": "markdown-it",
             "repo": "markdown-it",
-            "stars": 21856
+            "stars": 21857,
+            "topics": [
+              "commonmark",
+              "javascript",
+              "markdown"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -314,12 +540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":bird: :zap: Bluebird is a full featured promise library with unmatched performance.",
+            "homepage": "http://bluebirdjs.com",
             "id": 12670444,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-11-07T20:26:46Z",
+            "open_issues": 131,
             "owner": "petkaantonov",
             "repo": "bluebird",
-            "stars": 20490
+            "stars": 20490,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -330,12 +561,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JsonWebToken implementation for node.js http://self-issued.info/docs/draft-ietf-oauth-json-web-token.html",
+            "homepage": null,
             "id": 11081405,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-25T15:23:15Z",
+            "open_issues": 208,
             "owner": "auth0",
             "repo": "node-jsonwebtoken",
-            "stars": 18188
+            "stars": 18188,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -346,12 +582,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌲 super fast, all natural json logger",
+            "homepage": "http://getpino.io",
             "id": 51840802,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T10:35:00Z",
+            "open_issues": 170,
             "owner": "pinojs",
             "repo": "pino",
-            "stars": 18162
+            "stars": 18162,
+            "topics": [
+              "fast",
+              "json",
+              "logger",
+              "nodejs",
+              "pino"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -362,12 +609,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Generate RFC-compliant UUIDs in JavaScript",
+            "homepage": null,
             "id": 1203139,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-18T18:19:21Z",
+            "open_issues": 0,
             "owner": "uuidjs",
             "repo": "uuid",
-            "stars": 15320
+            "stars": 15320,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -378,12 +630,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The fastest JSON schema Validator. Supports JSON Schema draft-04/06/07/2019-09/2020-12 and JSON Type Definition (RFC8927)",
+            "homepage": "https://ajv.js.org",
             "id": 35914020,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-12T07:38:47Z",
+            "open_issues": 376,
             "owner": "ajv-validator",
             "repo": "ajv",
-            "stars": 14815
+            "stars": 14814,
+            "topics": [
+              "ajv",
+              "json-schema",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -394,12 +655,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-featured http proxy for node.js",
+            "homepage": "https://github.com/http-party/node-http-proxy",
             "id": 795421,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-26T22:13:39Z",
+            "open_issues": 619,
             "owner": "http-party",
             "repo": "node-http-proxy",
-            "stars": 14128
+            "stars": 14128,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -410,12 +676,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers",
+            "homepage": null,
             "id": 2871998,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-01T12:03:30Z",
+            "open_issues": 95,
             "owner": "debug-js",
             "repo": "debug",
-            "stars": 11451
+            "stars": 11450,
+            "topics": [
+              "browser",
+              "debug",
+              "debugging",
+              "javascript",
+              "logging",
+              "node",
+              "node-js"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -426,12 +705,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Connect is an extensible HTTP server framework for node using \"plugins\" known as middleware.",
+            "homepage": null,
             "id": 687836,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-27T16:10:21Z",
+            "open_issues": 14,
             "owner": "senchalabs",
             "repo": "connect",
-            "stars": 9880
+            "stars": 9881,
+            "topics": [
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -442,12 +729,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js: extra methods for the fs object like copy(), remove(), mkdirs()",
+            "homepage": null,
             "id": 2791348,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T19:51:59Z",
+            "open_issues": 13,
             "owner": "jprichardson",
             "repo": "node-fs-extra",
-            "stars": 9594
+            "stars": 9593,
+            "topics": [
+              "copy",
+              "delete",
+              "filesystem",
+              "javascript",
+              "move",
+              "nodejs",
+              "remove"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -458,12 +758,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Kue is a priority job queue backed by redis, built for node.js.",
+            "homepage": "http://automattic.github.io/kue",
             "id": 1963063,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-12T17:05:49Z",
+            "open_issues": 288,
             "owner": "Automattic",
             "repo": "kue",
-            "stars": 9425
+            "stars": 9425,
+            "topics": [
+              "job-queue",
+              "priority-queue",
+              "worker-queue"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -474,12 +783,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript YAML parser and dumper. Very fast.",
+            "homepage": "http://nodeca.github.io/js-yaml/",
             "id": 2504175,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T20:51:08Z",
+            "open_issues": 4,
             "owner": "nodeca",
             "repo": "js-yaml",
-            "stars": 6627
+            "stars": 6628,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -490,12 +804,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "🔀 Cross platform setting of environment scripts",
+            "homepage": "https://www.npmjs.com/package/cross-env",
             "id": 43512914,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-16T14:11:37Z",
+            "open_issues": 1,
             "owner": "kentcdodds",
             "repo": "cross-env",
-            "stars": 6524
+            "stars": 6524,
+            "topics": [
+              "cross-env",
+              "cross-platform",
+              "environment",
+              "macos",
+              "unix",
+              "variables",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -506,12 +833,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js Application Configuration",
+            "homepage": null,
             "id": 1130565,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T23:45:21Z",
+            "open_issues": 13,
             "owner": "node-config",
             "repo": "node-config",
-            "stars": 6430
+            "stars": 6430,
+            "topics": [
+              "config",
+              "deployment",
+              "properties",
+              "registry",
+              "settings",
+              "state"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -522,12 +861,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A port of log4js to node.js",
+            "homepage": "https://log4js-node.github.io/log4js-node/",
             "id": 475599,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-25T20:53:06Z",
+            "open_issues": 96,
             "owner": "log4js-node",
             "repo": "log4js-node",
-            "stars": 5828
+            "stars": 5828,
+            "topics": [
+              "javascript",
+              "log4js-node"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -538,12 +885,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The semver parser for node (the one npm uses)",
+            "homepage": "https://semver.npmjs.com/",
             "id": 1357199,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-07-02T06:23:10Z",
+            "open_issues": 54,
             "owner": "npm",
             "repo": "node-semver",
-            "stars": 5459
+            "stars": 5459,
+            "topics": [
+              "npm-cli"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -554,12 +908,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A native implementation of TLS in Javascript and tools to write crypto-based and network-heavy webapps",
+            "homepage": "https://digitalbazaar.com/",
             "id": 779570,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-25T20:58:31Z",
+            "open_issues": 461,
             "owner": "digitalbazaar",
             "repo": "forge",
-            "stars": 5330
+            "stars": 5330,
+            "topics": [
+              "aes",
+              "asn1",
+              "certificate",
+              "cipher",
+              "crypto",
+              "cryptography",
+              "csr",
+              "hmac",
+              "javascript",
+              "md5",
+              "message-digest",
+              "pbkdf2",
+              "pkcs",
+              "pkcs1",
+              "pkcs12",
+              "pkcs7",
+              "sha1",
+              "sha256",
+              "tls",
+              "x509"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -570,12 +950,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Full featured CSV parser with simple api and tested against large datasets.",
+            "homepage": "https://csv.js.org",
             "id": 938475,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:26:46Z",
+            "open_issues": 50,
             "owner": "adaltas",
             "repo": "node-csv",
-            "stars": 4283
+            "stars": 4283,
+            "topics": [
+              "csv",
+              "nodejs",
+              "parser",
+              "streaming"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -586,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Hierarchical node.js configuration with files, environment variables, command-line arguments, and atomic object merging.",
+            "homepage": "https://github.com/indexzero/nconf",
             "id": 1549544,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T21:37:57Z",
+            "open_issues": 113,
             "owner": "indexzero",
             "repo": "nconf",
-            "stars": 3860
+            "stars": 3860,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -602,12 +997,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Optimized bcrypt in JavaScript with zero dependencies, with TypeScript support.",
+            "homepage": null,
             "id": 9784843,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-20T20:59:39Z",
+            "open_issues": 5,
             "owner": "dcodeIO",
             "repo": "bcrypt.js",
-            "stars": 3799
+            "stars": 3799,
+            "topics": [
+              "authentication",
+              "bcrypt",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -618,12 +1022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open stuff like URLs, files, executables. Cross-platform.",
+            "homepage": null,
             "id": 18469325,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-13T23:38:37Z",
+            "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "open",
-            "stars": 3498
+            "stars": 3498,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -634,12 +1043,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A streaming parser for HTML form data for node.js",
+            "homepage": null,
             "id": 10308334,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-31T20:04:04Z",
+            "open_issues": 39,
             "owner": "mscdex",
             "repo": "busboy",
-            "stars": 2998
+            "stars": 2998,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -650,12 +1064,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Type checking and DDD for JavaScript",
+            "homepage": null,
             "id": 21159390,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-12T10:01:36Z",
+            "open_issues": 31,
             "owner": "gcanti",
             "repo": "tcomb",
-            "stars": 1879
+            "stars": 1879,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -666,12 +1085,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.",
+            "homepage": "https://filesizejs.com",
             "id": 3602669,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-28T05:13:09Z",
+            "open_issues": 1,
             "owner": "avoidwork",
             "repo": "filesize.js",
-            "stars": 1708
+            "stars": 1708,
+            "topics": [
+              "bits",
+              "bytes",
+              "file",
+              "filesize",
+              "filesystem",
+              "iec",
+              "jedec",
+              "simple",
+              "size",
+              "size-calculation"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -682,12 +1117,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Messaging in Node.JS made easy using RabbitMQ",
+            "homepage": null,
             "id": 949801,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-09-09T01:52:25Z",
+            "open_issues": 45,
             "owner": "squaremo",
             "repo": "rabbit.js",
-            "stars": 1515
+            "stars": 1515,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -698,12 +1138,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The ultimate javascript content-type utility.",
+            "homepage": null,
             "id": 19380178,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T16:15:48Z",
+            "open_issues": 28,
             "owner": "jshttp",
             "repo": "mime-types",
-            "stars": 1474
+            "stars": 1474,
+            "topics": [
+              "javascript",
+              "mime",
+              "mime-types",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -714,12 +1164,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple config handling for your app or module",
+            "homepage": null,
             "id": 61670221,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T15:56:22Z",
+            "open_issues": 5,
             "owner": "sindresorhus",
             "repo": "conf",
-            "stars": 1347
+            "stars": 1347,
+            "topics": [
+              "command-line",
+              "config",
+              "configuration-management",
+              "json",
+              "json-schema",
+              "node-module",
+              "npm-package",
+              "preferences",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -730,12 +1195,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delete files and directories",
+            "homepage": null,
             "id": 21078071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T15:58:02Z",
+            "open_issues": 16,
             "owner": "sindresorhus",
             "repo": "del",
-            "stars": 1344
+            "stars": 1344,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -746,12 +1216,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "💖 simple emoji support for node.js projects",
+            "homepage": null,
             "id": 22914463,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-02-07T08:30:10Z",
+            "open_issues": 17,
             "owner": "omnidan",
             "repo": "node-emoji",
-            "stars": 1341
+            "stars": 1341,
+            "topics": [
+              "emoji",
+              "emoji-support",
+              "javascript",
+              "node",
+              "node-emoji",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -762,12 +1244,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert bytes to a human readable string: 1337 → 1.34 kB",
+            "homepage": null,
             "id": 16671126,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:38:51Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "pretty-bytes",
-            "stars": 1305
+            "stars": 1305,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -778,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fs with incremental backoff on EMFILE",
+            "homepage": null,
             "id": 2077020,
             "language": "JavaScript",
+            "license": "BlueOak-1.0.0",
             "last_commit": "2025-10-25T19:00:09Z",
+            "open_issues": 49,
             "owner": "isaacs",
             "repo": "node-graceful-fs",
-            "stars": 1302
+            "stars": 1302,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -794,12 +1286,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Yet another QR code generator",
+            "homepage": null,
             "id": 17057343,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-23T07:19:13Z",
+            "open_issues": 15,
             "owner": "alexeyten",
             "repo": "qr-image",
-            "stars": 1063
+            "stars": 1063,
+            "topics": [
+              "javascript",
+              "qr",
+              "qrcode"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -810,12 +1311,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple tool to find an open port or domain socket on the current machine",
+            "homepage": "https://github.com/http-party/node-portfinder",
             "id": 2018652,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-21T21:38:03Z",
+            "open_issues": 5,
             "owner": "http-party",
             "repo": "node-portfinder",
-            "stars": 899
+            "stars": 899,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -826,12 +1332,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "yet another unzip library for node",
+            "homepage": null,
             "id": 23100405,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-07T12:57:39Z",
+            "open_issues": 12,
             "owner": "thejoshwolfe",
             "repo": "yauzl",
-            "stars": 822
+            "stars": 822,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -842,12 +1353,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delay a promise a specified amount of time",
+            "homepage": null,
             "id": 46072466,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-31T16:34:15Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "delay",
-            "stars": 624
+            "stars": 624,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -858,12 +1374,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js module to detect available ports of the system.",
+            "homepage": null,
             "id": 36540283,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-02-24T13:00:06Z",
+            "open_issues": 1,
             "owner": "node-modules",
             "repo": "detect-port",
-            "stars": 394
+            "stars": 393,
+            "topics": [
+              "detector",
+              "free",
+              "nodejs",
+              "port"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -874,12 +1400,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js module to list all files in a directory or any subdirectories.",
+            "homepage": null,
             "id": 3121472,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-07T20:03:22Z",
+            "open_issues": 24,
             "owner": "jergason",
             "repo": "recursive-readdir",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -890,12 +1421,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A very polite lock file utility, which endeavors to not litter, and to wait patiently for others. ",
+            "homepage": null,
             "id": 4803056,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2020-12-18T13:23:05Z",
+            "open_issues": 12,
             "owner": "npm",
             "repo": "lockfile",
-            "stars": 259
+            "stars": 259,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -906,12 +1442,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Provides metadata and conversions from repository urls for Github, Bitbucket and Gitlab",
+            "homepage": null,
             "id": 25002984,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-06-18T16:25:09Z",
+            "open_issues": 3,
             "owner": "npm",
             "repo": "hosted-git-info",
-            "stars": 238
+            "stars": 238,
+            "topics": [
+              "npm-cli"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -922,12 +1465,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "return an md5sum of a given file",
+            "homepage": "https://www.npmjs.org/package/md5-file",
             "id": 19139100,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2020-04-24T07:05:35Z",
+            "open_issues": 2,
             "owner": "kodie",
             "repo": "md5-file",
-            "stars": 214
+            "stars": 214,
+            "topics": [
+              "checksum",
+              "integrity",
+              "md5sum",
+              "verification"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -938,12 +1491,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple formatter/reporter for ESLint that's friendly with Sublime Text and iterm2 \"click to open file\" functionality",
+            "homepage": null,
             "id": 31586404,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-17T02:57:34Z",
+            "open_issues": 13,
             "owner": "royriojas",
             "repo": "eslint-friendly-formatter",
-            "stars": 197
+            "stars": 197,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -954,12 +1512,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easily generate random strings like passwords, with simple options for specifying a length and for using patterns of numeric, alpha-numeric, alphabetical, special or custom characters. (the original \"generate-password\")",
+            "homepage": "https://github.com/jonschlinkert",
             "id": 15630862,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-07-28T08:13:47Z",
+            "open_issues": 7,
             "owner": "jonschlinkert",
             "repo": "randomatic",
-            "stars": 183
+            "stars": 183,
+            "topics": [
+              "characters",
+              "digit",
+              "generate-password",
+              "javascript",
+              "nodejs",
+              "password",
+              "random",
+              "random-characters",
+              "randomize",
+              "repeat"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -970,12 +1544,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check if a path exists",
+            "homepage": null,
             "id": 34965664,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-03-03T14:44:23Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "path-exists",
-            "stars": 156
+            "stars": 156,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -986,12 +1565,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run JXA code and get the result",
+            "homepage": null,
             "id": 73689574,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-09T16:16:07Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "run-jxa",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1002,12 +1586,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Control the macOS dark mode",
+            "homepage": null,
             "id": 25381825,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-09T12:31:36Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "node-dark-mode",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "dark-mode",
+              "javascript",
+              "macos",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -1024,12 +1618,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "homepage": "https://expressjs.com",
             "id": 237159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T21:00:02Z",
+            "open_issues": 228,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69401
+            "stars": 69400,
+            "topics": [
+              "express",
+              "javascript",
+              "nodejs",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1040,12 +1644,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Meteor, the JavaScript App Platform",
+            "homepage": "https://meteor.com",
             "id": 3214406,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:50:30Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:14:27Z",
+            "open_issues": 357,
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44813
+            "stars": 44813,
+            "topics": [
+              "build-system",
+              "framework",
+              "hacktoberfest",
+              "javascript",
+              "meteor",
+              "mongodb",
+              "nodejs",
+              "npm",
+              "react",
+              "reactive-programming",
+              "realtime",
+              "rpc",
+              "zero-configuration"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1056,12 +1679,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast and low overhead web framework, for Node.js",
+            "homepage": "https://www.fastify.dev",
             "id": 69495170,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T18:19:15Z",
+            "open_issues": 145,
             "owner": "fastify",
             "repo": "fastify",
-            "stars": 37047
+            "stars": 37047,
+            "topics": [
+              "fastify",
+              "fastify-core",
+              "hacktoberfest",
+              "nodejs",
+              "performance",
+              "speed",
+              "webframework"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1072,12 +1708,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expressive middleware for node.js using ES2017 async functions",
+            "homepage": "https://koajs.com",
             "id": 11551538,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-26T03:22:12Z",
+            "open_issues": 40,
             "owner": "koajs",
             "repo": "koa",
-            "stars": 35690
+            "stars": 35690,
+            "topics": [
+              "koa"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1088,12 +1731,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🥚🥚🥚🥚 Born to build better enterprise frameworks and apps with Node.js & Koa. https://307.run/eggcode",
+            "homepage": "https://eggjs.org",
             "id": 61421257,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-23T07:12:27Z",
+            "open_issues": 412,
             "owner": "eggjs",
             "repo": "egg",
-            "stars": 18984
+            "stars": 18983,
+            "topics": [
+              "egg",
+              "eggjs",
+              "enterprise",
+              "framework",
+              "koa",
+              "koa-middleware",
+              "koa2",
+              "node-framework",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1104,12 +1762,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Simple, Secure Framework Developers Trust",
+            "homepage": "https://hapi.dev",
             "id": 2163263,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-19T16:27:14Z",
+            "open_issues": 57,
             "owner": "hapijs",
             "repo": "hapi",
-            "stars": 14793
+            "stars": 14793,
+            "topics": [
+              "application",
+              "framework",
+              "hapi",
+              "http",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1120,12 +1789,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The future of Node.js REST development",
+            "homepage": "http://restify.com",
             "id": 1661758,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-25T16:49:47Z",
+            "open_issues": 130,
             "owner": "restify",
             "repo": "node-restify",
-            "stars": 10686
+            "stars": 10686,
+            "topics": [
+              "rest-api",
+              "restify",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1136,12 +1814,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Asynchronous HTTP microservices",
+            "homepage": null,
             "id": 50224698,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-05-21T17:54:02Z",
+            "open_issues": 8,
             "owner": "vercel",
             "repo": "micro",
-            "stars": 10625
+            "stars": 10625,
+            "topics": [
+              "async",
+              "await",
+              "micro",
+              "microservice",
+              "vercel"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -1158,12 +1847,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js middleware for handling `multipart/form-data`.",
+            "homepage": "https://www.npmjs.com/package/multer",
             "id": 16386099,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:22:43Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T20:25:39Z",
+            "open_issues": 237,
             "owner": "expressjs",
             "repo": "multer",
-            "stars": 12085
+            "stars": 12085,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1174,12 +1868,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Help secure Express apps with various HTTP headers",
+            "homepage": "https://helmet.js.org/",
             "id": 3329923,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-01T00:02:40Z",
+            "open_issues": 8,
             "owner": "helmetjs",
             "repo": "helmet",
-            "stars": 10729
+            "stars": 10729,
+            "topics": [
+              "helmet",
+              "http-headers",
+              "javascript",
+              "middleware",
+              "security"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1190,12 +1895,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HTTP request logger middleware for node.js",
+            "homepage": null,
             "id": 16650937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:30:03Z",
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "morgan",
-            "stars": 8203
+            "stars": 8203,
+            "topics": [
+              "express",
+              "javascript",
+              "logger",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1206,12 +1921,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple session middleware for Express",
+            "homepage": null,
             "id": 16875250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:41:25Z",
+            "open_issues": 97,
             "owner": "expressjs",
             "repo": "session",
-            "stars": 6360
+            "stars": 6360,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "session"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1222,12 +1948,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An express.js middleware for validator.js.",
+            "homepage": "https://express-validator.github.io",
             "id": 2518028,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T09:25:52Z",
+            "open_issues": 80,
             "owner": "express-validator",
             "repo": "express-validator",
-            "stars": 6236
+            "stars": 6236,
+            "topics": [
+              "express",
+              "expressjs",
+              "javascript",
+              "nodejs",
+              "validation",
+              "validator"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1238,12 +1976,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js CORS middleware",
+            "homepage": null,
             "id": 7929498,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-02T20:00:40Z",
+            "open_issues": 51,
             "owner": "expressjs",
             "repo": "cors",
-            "stars": 6192
+            "stars": 6191,
+            "topics": [
+              "cors",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1254,12 +2003,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js body parsing middleware",
+            "homepage": null,
             "id": 15669006,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T20:08:59Z",
+            "open_issues": 49,
             "owner": "expressjs",
             "repo": "body-parser",
-            "stars": 5501
+            "stars": 5501,
+            "topics": [
+              "body",
+              "expressjs",
+              "javascript",
+              "json",
+              "middleware",
+              "nodejs",
+              "parser",
+              "urlencoded"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1270,12 +2033,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis session store for Connect",
+            "homepage": null,
             "id": 771088,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-24T20:25:11Z",
+            "open_issues": 0,
             "owner": "tj",
             "repo": "connect-redis",
-            "stars": 2821
+            "stars": 2821,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1286,12 +2054,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js compression middleware",
+            "homepage": null,
             "id": 15571957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T08:38:37Z",
+            "open_issues": 29,
             "owner": "expressjs",
             "repo": "compression",
-            "stars": 2808
+            "stars": 2808,
+            "topics": [
+              "compression",
+              "deflate",
+              "expressjs",
+              "gzip",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1302,12 +2083,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CSRF token middleware",
+            "homepage": null,
             "id": 17430647,
             "language": null,
+            "license": "MIT",
             "last_commit": "2025-05-14T13:34:34Z",
+            "open_issues": 0,
             "owner": "expressjs",
             "repo": "csurf",
-            "stars": 2308
+            "stars": 2308,
+            "topics": [
+              "csrf",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1318,12 +2110,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Parse HTTP request cookies",
+            "homepage": null,
             "id": 16866357,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T01:07:15Z",
+            "open_issues": 32,
             "owner": "expressjs",
             "repo": "cookie-parser",
-            "stars": 2029
+            "stars": 2029,
+            "topics": [
+              "cookie",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1334,12 +2137,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve static files",
+            "homepage": null,
             "id": 17464338,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-03T18:08:02Z",
+            "open_issues": 26,
             "owner": "expressjs",
             "repo": "serve-static",
-            "stars": 1423
+            "stars": 1423,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "send",
+              "serve-files"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1350,12 +2165,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple cookie-based session middleware",
+            "homepage": null,
             "id": 17106306,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T13:59:19Z",
+            "open_issues": 16,
             "owner": "expressjs",
             "repo": "cookie-session",
-            "stars": 1149
+            "stars": 1149,
+            "topics": [
+              "cookie",
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "session"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1366,12 +2193,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "virtual domain hosting",
+            "homepage": null,
             "id": 17430308,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-09T09:45:27Z",
+            "open_issues": 4,
             "owner": "expressjs",
             "repo": "vhost",
-            "stars": 767
+            "stars": 767,
+            "topics": [
+              "expressjs",
+              "javascript",
+              "middleware",
+              "nodejs",
+              "vhost"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1382,12 +2220,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "favicon serving middleware",
+            "homepage": "https://www.npmjs.com/package/serve-favicon",
             "id": 16514286,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-01T09:29:05Z",
+            "open_issues": 8,
             "owner": "expressjs",
             "repo": "serve-favicon",
-            "stars": 628
+            "stars": 628,
+            "topics": [
+              "expressjs",
+              "favicon",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1398,12 +2247,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Response time header for node.js",
+            "homepage": null,
             "id": 16650307,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T02:19:56Z",
+            "open_issues": 8,
             "owner": "expressjs",
             "repo": "response-time",
-            "stars": 497
+            "stars": 497,
+            "topics": [
+              "javascript",
+              "middleware",
+              "nodejs",
+              "response-time"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1414,12 +2273,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Serve directory listings",
+            "homepage": null,
             "id": 17459063,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-05T14:00:57Z",
+            "open_issues": 37,
             "owner": "expressjs",
             "repo": "serve-index",
-            "stars": 448
+            "stars": 448,
+            "topics": [
+              "directory",
+              "expressjs",
+              "index",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1430,12 +2301,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development-only error handler middleware",
+            "homepage": null,
             "id": 17359035,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-01T04:59:02Z",
+            "open_issues": 6,
             "owner": "expressjs",
             "repo": "errorhandler",
-            "stars": 426
+            "stars": 426,
+            "topics": [
+              "error",
+              "javascript",
+              "middleware",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1446,12 +2327,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Request timeout middleware for Connect/Express",
+            "homepage": null,
             "id": 17359642,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-03T01:07:15Z",
+            "open_issues": 18,
             "owner": "expressjs",
             "repo": "timeout",
-            "stars": 322
+            "stars": 322,
+            "topics": [
+              "javascript",
+              "middleware",
+              "nodejs",
+              "timeout"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -1468,12 +2359,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Router middleware for koa.",
+            "homepage": null,
             "id": 12499274,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-28T11:03:43Z",
+            "open_issues": 82,
             "owner": "ZijianHe",
             "repo": "koa-router",
-            "stars": 4814
+            "stars": 4814,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1484,12 +2380,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koa middleware for validating JSON Web Tokens",
+            "homepage": null,
             "id": 16346957,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-09-10T02:34:25Z",
+            "open_issues": 7,
             "owner": "koajs",
             "repo": "jwt",
-            "stars": 1350
+            "stars": 1350,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1500,12 +2401,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koa body parsing middleware",
+            "homepage": null,
             "id": 16918137,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-03T01:24:06Z",
+            "open_issues": 6,
             "owner": "koajs",
             "repo": "bodyparser",
-            "stars": 1325
+            "stars": 1325,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1516,12 +2422,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static file server middleware",
+            "homepage": null,
             "id": 12182834,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-20T17:16:30Z",
+            "open_issues": 13,
             "owner": "koajs",
             "repo": "static",
-            "stars": 1147
+            "stars": 1147,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1532,12 +2443,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple session middleware for koa",
+            "homepage": null,
             "id": 14187683,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-04-06T22:00:42Z",
+            "open_issues": 54,
             "owner": "koajs",
             "repo": "session",
-            "stars": 908
+            "stars": 908,
+            "topics": [
+              "koa",
+              "koa-session",
+              "session"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1548,12 +2468,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Important security headers for koa",
+            "homepage": null,
             "id": 18251855,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-04-10T01:53:50Z",
+            "open_issues": 4,
             "owner": "venables",
             "repo": "koa-helmet",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "headers",
+              "helmet",
+              "koa",
+              "koa-helmet",
+              "koa2",
+              "middleware",
+              "secure",
+              "secure-by-default"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1564,12 +2498,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Development style logging middleware",
+            "homepage": null,
             "id": 12174085,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-13T00:45:08Z",
+            "open_issues": 5,
             "owner": "koajs",
             "repo": "logger",
-            "stars": 560
+            "stars": 560,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1580,12 +2519,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rate limiter middleware",
+            "homepage": null,
             "id": 14376847,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-06-05T19:54:42Z",
+            "open_issues": 1,
             "owner": "koajs",
             "repo": "ratelimit",
-            "stars": 493
+            "stars": 493,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1596,12 +2540,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compress middleware for koa",
+            "homepage": null,
             "id": 12238295,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-15T09:02:45Z",
+            "open_issues": 2,
             "owner": "koajs",
             "repo": "compress",
-            "stars": 442
+            "stars": 442,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1612,12 +2561,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Redis storage for Koa session middleware/cache with Sentinel and Cluster support",
+            "homepage": null,
             "id": 15478900,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-05-19T06:02:20Z",
+            "open_issues": 13,
             "owner": "koajs",
             "repo": "koa-redis",
-            "stars": 353
+            "stars": 353,
+            "topics": [
+              "cache",
+              "cluster",
+              "koa",
+              "node",
+              "redis",
+              "sentinel",
+              "session",
+              "storage"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1628,12 +2591,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[MAJOR CHANGES IN PROGRESS] Static cache middleware for Koa.",
+            "homepage": null,
             "id": 12242512,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-04-10T23:10:49Z",
+            "open_issues": 21,
             "owner": "koajs",
             "repo": "static-cache",
-            "stars": 291
+            "stars": 291,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1644,12 +2612,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSRF tokens for koa",
+            "homepage": null,
             "id": 14197336,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-02T05:14:19Z",
+            "open_issues": 0,
             "owner": "koajs",
             "repo": "csrf",
-            "stars": 265
+            "stars": 265,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1660,12 +2633,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Middleware for handling `multipart/form-data` for koa, based on Express's multer.",
+            "homepage": null,
             "id": 33353966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-10-05T07:22:54Z",
+            "open_issues": 11,
             "owner": "koa-modules",
             "repo": "multer",
-            "stars": 264
+            "stars": 264,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1676,12 +2654,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koa middleware for serving a favicon",
+            "homepage": null,
             "id": 12824114,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-04-24T20:43:09Z",
+            "open_issues": 2,
             "owner": "koajs",
             "repo": "favicon",
-            "stars": 105
+            "stars": 105,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1692,12 +2675,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "koa locales, i18n solution for koa",
+            "homepage": null,
             "id": 35725924,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-03T10:18:16Z",
+            "open_issues": 16,
             "owner": "koajs",
             "repo": "locales",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1708,12 +2696,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Auto convert markdown to html for koa. Inspired by connect-markdown",
+            "homepage": null,
             "id": 17082894,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-31T16:17:55Z",
+            "open_issues": 3,
             "owner": "koajs",
             "repo": "koa-markdown",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -1730,12 +2723,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "☕️ Classic, reliable, trusted test framework for Node.js and the browser",
+            "homepage": "https://mochajs.org",
             "id": 1451352,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T13:13:59Z",
+            "open_issues": 267,
             "owner": "mochajs",
             "repo": "mocha",
-            "stars": 22907
+            "stars": 22907,
+            "topics": [
+              "bdd",
+              "browser",
+              "javascript",
+              "mocha",
+              "mochajs",
+              "node",
+              "nodejs",
+              "tdd",
+              "test",
+              "test-framework",
+              "testing",
+              "testing-tools"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1746,12 +2757,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js test runner that lets you develop with confidence 🚀",
+            "homepage": null,
             "id": 26820798,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-17T10:19:10Z",
+            "open_issues": 73,
             "owner": "avajs",
             "repo": "ava",
-            "stars": 20830
+            "stars": 20830,
+            "topics": [
+              "assert",
+              "async",
+              "async-functions",
+              "ava",
+              "cli",
+              "cli-app",
+              "concurrency",
+              "javascript",
+              "node",
+              "nodejs",
+              "performance",
+              "tap",
+              "tdd",
+              "test-framework",
+              "test-runner",
+              "testing",
+              "unicorns",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1762,12 +2797,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🕷 Super-agent driven library for testing node.js HTTP servers using a fluent API.   Maintained for @forwardemail, @ladjs, @spamscanner, @breejs, @cabinjs, and @lassjs.",
+            "homepage": null,
             "id": 4813464,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-02T04:24:49Z",
+            "open_issues": 190,
             "owner": "forwardemail",
             "repo": "supertest",
-            "stars": 14396
+            "stars": 14396,
+            "topics": [
+              "assertions",
+              "node",
+              "superagent",
+              "supertest"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1778,12 +2823,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yet another JS code coverage tool that computes statement, line, function and branch coverage with module loader hooks to transparently add coverage when running tests. Supports all JS coverage use cases including unit tests, server side functional tests and browser tests. Built for scale.",
+            "homepage": null,
             "id": 5775917,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-08T15:50:22Z",
+            "open_issues": 399,
             "owner": "gotwarlost",
             "repo": "istanbul",
-            "stars": 8655
+            "stars": 8655,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1794,12 +2844,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "BDD / TDD assertion framework for node.js and the browser that can be paired with any testing framework.",
+            "homepage": "https://chaijs.github.io",
             "id": 2931111,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T19:35:15Z",
+            "open_issues": 91,
             "owner": "chaijs",
             "repo": "chai",
-            "stars": 8270
+            "stars": 8270,
+            "topics": [
+              "assertions",
+              "bdd",
+              "chai",
+              "javascript",
+              "tdd"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1810,12 +2871,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "the Istanbul command line interface",
+            "homepage": "https://istanbul.js.org/",
             "id": 35312458,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2026-05-17T16:05:31Z",
+            "open_issues": 208,
             "owner": "istanbuljs",
             "repo": "nyc",
-            "stars": 5766
+            "stars": 5766,
+            "topics": [
+              "code-coverage",
+              "istanbul",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1826,12 +2896,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Easy monkey-patching for node.js unit tests",
+            "homepage": null,
             "id": 4539386,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-12-11T21:43:31Z",
+            "open_issues": 51,
             "owner": "jhnns",
             "repo": "rewire",
-            "stars": 3093
+            "stars": 3093,
+            "topics": [
+              "mock",
+              "monkey-patching",
+              "testing",
+              "unit-testing"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1842,12 +2922,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Power Assert in JavaScript. Provides descriptive assertion messages through standard assert interface. No API is the best API.",
+            "homepage": null,
             "id": 12260386,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-07T03:57:23Z",
+            "open_issues": 43,
             "owner": "power-assert-js",
             "repo": "power-assert",
-            "stars": 2807
+            "stars": 2807,
+            "topics": [
+              "assert",
+              "power-assert"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1858,12 +2946,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic BDD-style assertions for Node.JS and the browser.",
+            "homepage": null,
             "id": 3008757,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2023-01-14T22:56:32Z",
+            "open_issues": 86,
             "owner": "Automattic",
             "repo": "expect.js",
-            "stars": 2096
+            "stars": 2096,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1874,12 +2967,27 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "BDD style assertions for node.js -- test framework agnostic",
+            "homepage": "http://shouldjs.github.io",
             "id": 20254814,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-10-29T20:12:58Z",
+            "open_issues": 11,
             "owner": "shouldjs",
             "repo": "should.js",
-            "stars": 1889
+            "stars": 1889,
+            "topics": [
+              "assertions",
+              "bdd",
+              "javascript",
+              "node-js",
+              "should",
+              "tdd",
+              "test",
+              "testing",
+              "tests"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1890,12 +2998,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Configurable mock for the fs module",
+            "homepage": "https://npmjs.org/package/mock-fs",
             "id": 14238815,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-01T01:14:19Z",
+            "open_issues": 75,
             "owner": "tschaub",
             "repo": "mock-fs",
-            "stars": 917
+            "stars": 917,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1906,12 +3019,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Simple, intuitive mocking of Node.js modules.",
+            "homepage": null,
             "id": 24736974,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-15T12:36:02Z",
+            "open_issues": 10,
             "owner": "boblauer",
             "repo": "mock-require",
-            "stars": 458
+            "stars": 458,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1922,12 +3040,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Write data to a random temporary file",
+            "homepage": null,
             "id": 15558686,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-25T08:15:11Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "temp-write",
-            "stars": 109
+            "stars": 109,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1938,12 +3061,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a random temporary file path",
+            "homepage": null,
             "id": 15558013,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-01-25T07:56:47Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "tempfile",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -1960,12 +3088,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Get a full fake REST API with zero coding in less than 30 seconds (seriously)",
+            "homepage": null,
             "id": 14747598,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-23T19:40:00Z",
+            "open_issues": 720,
             "owner": "typicode",
             "repo": "json-server",
-            "stars": 75699
+            "stars": 75698,
+            "topics": [
+              "api",
+              "fake",
+              "frontend",
+              "json",
+              "mock",
+              "rest",
+              "test"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1976,12 +3117,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js/Bun Production Process Manager with a built-in Load Balancer.",
+            "homepage": "https://pm2.keymetrics.io/docs/usage/quick-start/",
             "id": 10187082,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T14:03:01Z",
+            "open_issues": 1091,
             "owner": "Unitech",
             "repo": "pm2",
-            "stars": 43283
+            "stars": 43282,
+            "topics": [
+              "command-line",
+              "command-line-tool",
+              "deploy",
+              "load-balancer",
+              "monitoring",
+              "node",
+              "nodejs",
+              "pm2",
+              "process-manager",
+              "production"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -1992,12 +3149,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The 1.x line is frozen - features and bugfixes now happen on https://github.com/yarnpkg/berry",
+            "homepage": "https://classic.yarnpkg.com",
             "id": 49970642,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-05-12T11:09:42Z",
+            "open_issues": 2056,
             "owner": "yarnpkg",
             "repo": "yarn",
-            "stars": 41486
+            "stars": 41485,
+            "topics": [
+              "javascript",
+              "npm",
+              "package-manager",
+              "yarn"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2008,12 +3175,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lerna is a fast, modern build system for managing and publishing multiple JavaScript/TypeScript packages from the same repository.",
+            "homepage": "https://lerna.js.org",
             "id": 47394776,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T23:31:10Z",
+            "open_issues": 290,
             "owner": "lerna",
             "repo": "lerna",
-            "stars": 36053
+            "stars": 36052,
+            "topics": [
+              "lerna",
+              "monorepo",
+              "npm",
+              "package",
+              "publishing"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2024,12 +3202,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find and fix problems in your JavaScript code.",
+            "homepage": "https://eslint.org",
             "id": 11061773,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T10:16:22Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:03:26Z",
+            "open_issues": 141,
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27488
+            "stars": 27488,
+            "topics": [
+              "ecmascript",
+              "eslint",
+              "javascript",
+              "linter",
+              "static-code-analysis"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2040,12 +3229,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+            "homepage": "http://nodemon.io/",
             "id": 958314,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T19:50:21Z",
+            "open_issues": 12,
             "owner": "remy",
             "repo": "nodemon",
-            "stars": 26677
+            "stars": 26676,
+            "topics": [
+              "node",
+              "nodemon",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2056,12 +3254,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MJML: the only framework that makes responsive email easy",
+            "homepage": "https://mjml.io",
             "id": 50586840,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:54:36Z",
+            "open_issues": 69,
             "owner": "mjmlio",
             "repo": "mjml",
-            "stars": 18211
+            "stars": 18212,
+            "topics": [
+              "email",
+              "email-boilerplate",
+              "email-campaigns",
+              "mjml",
+              "responsive",
+              "responsive-email"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2072,12 +3282,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This repository is moving to: https://github.com/npm/cli",
+            "homepage": "http://npm.community",
             "id": 321278,
             "language": null,
+            "license": null,
             "last_commit": "2020-08-07T14:31:21Z",
+            "open_issues": 2163,
             "owner": "npm",
             "repo": "npm",
-            "stars": 17621
+            "stars": 17621,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2088,12 +3303,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The commitizen command line utility. #BlackLivesMatter",
+            "homepage": "http://commitizen.github.io/cz-cli/",
             "id": 34230966,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T23:42:06Z",
+            "open_issues": 193,
             "owner": "commitizen",
             "repo": "cz-cli",
-            "stars": 17500
+            "stars": 17499,
+            "topics": [
+              "command-line",
+              "commit-hooks",
+              "commitizen",
+              "commitizen-adapter",
+              "git",
+              "javascript",
+              "node",
+              "semantic-release",
+              "semantic-versioning",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2104,12 +3335,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Unfancy JavaScript",
+            "homepage": "https://coffeescript.org/",
             "id": 441269,
             "language": "CoffeeScript",
+            "license": "MIT",
             "last_commit": "2024-03-22T14:04:00Z",
+            "open_issues": 98,
             "owner": "jashkenas",
             "repo": "coffeescript",
-            "stars": 16599
+            "stars": 16599,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2120,12 +3356,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js debugger based on Blink Developer Tools",
+            "homepage": null,
             "id": 781028,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-02-08T23:01:21Z",
+            "open_issues": 243,
             "owner": "node-inspector",
             "repo": "node-inspector",
-            "stars": 12641
+            "stars": 12641,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2136,12 +3377,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "This is probably the best web presentation tool so far!",
+            "homepage": null,
             "id": 4030574,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-01-25T02:54:35Z",
+            "open_issues": 27,
             "owner": "ksky521",
             "repo": "nodeppt",
-            "stars": 10343
+            "stars": 10343,
+            "topics": [
+              "animation",
+              "css3",
+              "html-presentation",
+              "html5",
+              "javascript",
+              "javascript-library",
+              "keynote",
+              "markdown",
+              "markdown-it",
+              "posthtml",
+              "ppt",
+              "presentation",
+              "slides",
+              "slideshow",
+              "webpack",
+              "webslide"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2152,12 +3415,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static file serving and directory listing",
+            "homepage": "https://npmjs.com/package/serve",
             "id": 57182064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T19:11:35Z",
+            "open_issues": 149,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9896
+            "stars": 9897,
+            "topics": [
+              "cli",
+              "command",
+              "http",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2168,12 +3441,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😻 Convert any video file to an optimized animated GIF.",
+            "homepage": null,
             "id": 27015948,
             "language": "JavaScript",
+            "license": "ISC",
             "last_commit": "2025-07-25T14:50:41Z",
+            "open_issues": 26,
             "owner": "vvo",
             "repo": "gifify",
-            "stars": 6325
+            "stars": 6325,
+            "topics": [
+              "ffmpeg",
+              "gif",
+              "gifify",
+              "gifsicle",
+              "imagemagick",
+              "mp4",
+              "nodejs",
+              "screencast",
+              "video"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2184,12 +3472,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🎨 Beautiful images of your code — from right inside your terminal.",
+            "homepage": null,
             "id": 139448014,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-11-14T13:08:50Z",
+            "open_issues": 8,
             "owner": "mixn",
             "repo": "carbon-now-cli",
-            "stars": 6031
+            "stars": 6031,
+            "topics": [
+              "cli",
+              "cli-app",
+              "cli-application",
+              "cli-command",
+              "cli-tool",
+              "cli-utilities",
+              "cli-utility",
+              "command-line",
+              "node",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2200,12 +3504,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smart webfont compression and format conversion tool",
+            "homepage": null,
             "id": 27417231,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-30T18:18:29Z",
+            "open_issues": 81,
             "owner": "aui",
             "repo": "font-spider",
-            "stars": 5142
+            "stars": 5142,
+            "topics": [
+              "eot",
+              "font-face",
+              "opentype",
+              "svg",
+              "truetype",
+              "ttf",
+              "webfont",
+              "woff",
+              "woff2"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2216,12 +3535,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gitmoji interactive cli tool for using emojis on commits. 💻",
+            "homepage": "https://www.npmjs.com/package/gitmoji-cli",
             "id": 74069926,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T08:50:42Z",
+            "open_issues": 24,
             "owner": "carloscuesta",
             "repo": "gitmoji-cli",
-            "stars": 4831
+            "stars": 4831,
+            "topics": [
+              "cli",
+              "emoji",
+              "gitmoji",
+              "gitmoji-cli"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2232,12 +3561,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NPM registry manager, fast switch between different registries: npm, cnpm, nj, taobao",
+            "homepage": null,
             "id": 17277700,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2025-07-13T02:08:58Z",
+            "open_issues": 32,
             "owner": "Pana",
             "repo": "nrm",
-            "stars": 3016
+            "stars": 3016,
+            "topics": [
+              "npm",
+              "nrm",
+              "registries",
+              "registry-manager"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2248,12 +3587,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Expose your localhost to the web. Node wrapper for ngrok.",
+            "homepage": "https://ngrok.com",
             "id": 14343981,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2025-06-19T01:58:31Z",
+            "open_issues": 50,
             "owner": "bubenshchykov",
             "repo": "ngrok",
-            "stars": 2415
+            "stars": 2415,
+            "topics": [
+              "localhost",
+              "ngrok",
+              "tunnel",
+              "tunneling",
+              "webhook"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2264,12 +3614,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Ionic command-line interface",
+            "homepage": null,
             "id": 14562056,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-10T17:09:49Z",
+            "open_issues": 368,
             "owner": "ionic-team",
             "repo": "ionic-cli",
-            "stars": 2003
+            "stars": 2003,
+            "topics": [
+              "cli",
+              "ionic"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2280,12 +3638,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Express' application generator",
+            "homepage": null,
             "id": 14570945,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-03-02T12:15:52Z",
+            "open_issues": 77,
             "owner": "expressjs",
             "repo": "generator",
-            "stars": 1854
+            "stars": 1853,
+            "topics": [
+              "express",
+              "generator",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2296,12 +3664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Move files and folders to the trash",
+            "homepage": null,
             "id": 44158428,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T05:21:20Z",
+            "open_issues": 3,
             "owner": "sindresorhus",
             "repo": "trash-cli",
-            "stars": 1412
+            "stars": 1412,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2312,12 +3685,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The streaming scaffolding system - Gulp as a replacement for Yeoman",
+            "homepage": "http://slushjs.github.io/generators",
             "id": 18034500,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-11-04T18:52:34Z",
+            "open_issues": 17,
             "owner": "slushjs",
             "repo": "slush",
-            "stars": 1227
+            "stars": 1227,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2328,12 +3706,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "more than a live-reload server, built for efficient front-end development",
+            "homepage": "https://github.com/leeluolee/puer",
             "id": 5598440,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-06-24T03:51:12Z",
+            "open_issues": 29,
             "owner": "leeluolee",
             "repo": "puer",
-            "stars": 1199
+            "stars": 1199,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2344,12 +3727,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Koa' application generator for 1.x and 2.x（ Express-style and support all middlewares include async/await ）",
+            "homepage": "https://github.com/17koa/koa-generator",
             "id": 47414590,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-07T23:57:27Z",
+            "open_issues": 18,
             "owner": "i5ting",
             "repo": "koa-generator",
-            "stars": 966
+            "stars": 966,
+            "topics": [
+              "koa",
+              "koa-generator",
+              "koa-starter",
+              "koa2",
+              "nodejs",
+              "scaffold",
+              "web"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2360,12 +3756,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GitBook's command line interface",
+            "homepage": null,
             "id": 29676555,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-06-05T04:28:15Z",
+            "open_issues": 86,
             "owner": "GitbookIO",
             "repo": "gitbook-cli",
-            "stars": 729
+            "stars": 729,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2376,12 +3777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Front End Code Style Suite",
+            "homepage": "http://fecs.baidu.com/",
             "id": 24563457,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-12-24T13:30:24Z",
+            "open_issues": 56,
             "owner": "ecomfe",
             "repo": "fecs",
-            "stars": 637
+            "stars": 637,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2392,12 +3798,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node.js command-line client for tldr pages 📚.",
+            "homepage": "https://www.npmjs.com/package/tldr",
             "id": 17348050,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-21T04:22:29Z",
+            "open_issues": 35,
             "owner": "tldr-pages",
             "repo": "tldr-node-client",
-            "stars": 462
+            "stars": 462,
+            "topics": [
+              "hacktoberfest",
+              "javascript",
+              "linux",
+              "macos",
+              "nodejs",
+              "tldr",
+              "tldr-pages",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2408,12 +3828,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The CLI search utility for npms",
+            "homepage": null,
             "id": 51465937,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-11-29T05:39:43Z",
+            "open_issues": 8,
             "owner": "npms-io",
             "repo": "npms-cli",
-            "stars": 262
+            "stars": 262,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2424,12 +3849,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "publish to gh-pages from package.json",
+            "homepage": "http://davejustice.com/gh-pages-deploy/",
             "id": 24308450,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-06-25T12:25:21Z",
+            "open_issues": 12,
             "owner": "meandavejustice",
             "repo": "gh-pages-deploy",
-            "stars": 208
+            "stars": 208,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2440,12 +3870,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Command line interface for Hexo",
+            "homepage": null,
             "id": 30630396,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-14T16:12:19Z",
+            "open_issues": 13,
             "owner": "hexojs",
             "repo": "hexo-cli",
-            "stars": 176
+            "stars": 176,
+            "topics": [
+              "cli",
+              "hexo",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2456,12 +3895,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Some pretty nice placeholder nouns for your site (people, places, and things), powered by https://placem.at/",
+            "homepage": null,
             "id": 50278100,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-06-08T06:02:23Z",
+            "open_issues": 0,
             "owner": "linhe0x0",
             "repo": "placemat",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2472,12 +3916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Checkout the dependencies an npm module depends on",
+            "homepage": null,
             "id": 52494278,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-12-25T14:32:03Z",
+            "open_issues": 1,
             "owner": "egoist",
             "repo": "decheck",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -2494,12 +3943,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "node.js command-line interfaces made easy",
+            "homepage": null,
             "id": 2206953,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T04:05:39Z",
+            "open_issues": 8,
             "owner": "tj",
             "repo": "commander.js",
-            "stars": 28380
+            "stars": 28379,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2510,12 +3964,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🖍 Terminal string styling done right",
+            "homepage": null,
             "id": 11855195,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T14:51:04Z",
+            "open_issues": 0,
             "owner": "chalk",
             "repo": "chalk",
-            "stars": 23311
+            "stars": 23310,
+            "topics": [
+              "ansi",
+              "ansi-escape-codes",
+              "chalk",
+              "cli",
+              "color",
+              "commandline",
+              "console",
+              "javascript",
+              "strip-ansi",
+              "terminal",
+              "terminal-emulators"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2526,12 +3997,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A collection of common interactive command line user interfaces.",
+            "homepage": null,
             "id": 10114077,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:48:22Z",
+            "open_issues": 16,
             "owner": "SBoudrias",
             "repo": "Inquirer.js",
-            "stars": 21616
+            "stars": 21616,
+            "topics": [
+              "cli",
+              "command-line",
+              "javascript",
+              "javascript-library",
+              "node-js",
+              "nodejs",
+              "prompt",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2542,12 +4027,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":shell: Portable Unix shell commands for Node.js",
+            "homepage": "https://www.npmjs.com/package/shelljs",
             "id": 3604157,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-12T11:13:48Z",
+            "open_issues": 106,
             "owner": "shelljs",
             "repo": "shelljs",
-            "stars": 14399
+            "stars": 14399,
+            "topics": [
+              "bash",
+              "javascript",
+              "node",
+              "nodejs",
+              "shell",
+              "shelljs",
+              "unix"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2558,12 +4056,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and efficient cross-platform file watching library",
+            "homepage": "https://paulmillr.com",
             "id": 4090287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T15:34:26Z",
+            "open_issues": 45,
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12227
+            "stars": 12228,
+            "topics": [
+              "chokidar",
+              "filesystem",
+              "fsevents",
+              "nodejs",
+              "watch-files",
+              "watcher"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2574,12 +4084,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " yargs the modern, pirate-themed successor to optimist.",
+            "homepage": "https://yargs.js.org/",
             "id": 14210523,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-07T03:15:41Z",
+            "open_issues": 208,
             "owner": "yargs",
             "repo": "yargs",
-            "stars": 11515
+            "stars": 11514,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2590,12 +4105,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Elegant terminal spinner",
+            "homepage": null,
             "id": 53072654,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-22T22:14:56Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "ora",
-            "stars": 9742
+            "stars": 9742,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2606,12 +4126,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Highly configurable logging library",
+            "homepage": "https://klaudiosinani.com/signale",
             "id": 128658421,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-06T20:08:22Z",
+            "open_issues": 39,
             "owner": "klaudiosinani",
             "repo": "signale",
-            "stars": 9178
+            "stars": 9178,
+            "topics": [
+              "cli",
+              "console",
+              "library",
+              "log",
+              "logger",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2622,12 +4154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "glob functionality for node.js",
+            "homepage": null,
             "id": 357681,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-20T17:51:52Z",
+            "open_issues": 4,
             "owner": "isaacs",
             "repo": "node-glob",
-            "stars": 8714
+            "stars": 8714,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2638,12 +4175,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process execution for humans",
+            "homepage": null,
             "id": 47475908,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-31T02:10:22Z",
+            "open_issues": 1,
             "owner": "sindresorhus",
             "repo": "execa",
-            "stars": 7595
+            "stars": 7594,
+            "topics": [
+              "binary",
+              "child-process",
+              "exec",
+              "execute",
+              "javascript",
+              "nodejs",
+              "shell",
+              "spawn",
+              "spawned-processes",
+              "streams"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2654,12 +4207,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐨 Elegant Console Logger for Node.js and Browser ",
+            "homepage": null,
             "id": 127546642,
             "language": "TypeScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T18:58:00Z",
+            "open_issues": 93,
             "owner": "unjs",
             "repo": "consola",
-            "stars": 7324
+            "stars": 7324,
+            "topics": [
+              "cli",
+              "console",
+              "fancy",
+              "log",
+              "node",
+              "terminal"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2670,12 +4235,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Node.js module for sending notifications on native Mac, Windows and Linux (or Growl as fallback)",
+            "homepage": null,
             "id": 6965529,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-24T13:43:42Z",
+            "open_issues": 128,
             "owner": "mikaelbr",
             "repo": "node-notifier",
-            "stars": 5845
+            "stars": 5845,
+            "topics": [
+              "growl",
+              "hacktoberfest",
+              "javascript",
+              "node-notifier",
+              "nodejs",
+              "notification",
+              "notification-center",
+              "toasters"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2686,12 +4265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SSH2 client and server modules written in pure JavaScript for node.js",
+            "homepage": null,
             "id": 5283193,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T21:41:06Z",
+            "open_issues": 103,
             "owner": "mscdex",
             "repo": "ssh2",
-            "stars": 5818
+            "stars": 5818,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2702,12 +4286,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "get colors in your node.js console",
+            "homepage": " https://github.com/Marak/colors.js",
             "id": 715168,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2023-06-14T06:56:47Z",
+            "open_issues": 91,
             "owner": "Marak",
             "repo": "colors.js",
-            "stars": 5166
+            "stars": 5165,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2718,12 +4307,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A full-featured framework for building command line applications (cli) with node.js",
+            "homepage": null,
             "id": 81380993,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-01-03T21:58:32Z",
+            "open_issues": 28,
             "owner": "mattallty",
             "repo": "Caporal.js",
-            "stars": 3450
+            "stars": 3450,
+            "topics": [
+              "argument-parser",
+              "argument-parsing",
+              "argv",
+              "argv-parser",
+              "autocomplete",
+              "bash",
+              "caporal",
+              "cli",
+              "cli-app",
+              "command-line",
+              "command-line-parser",
+              "node",
+              "node-js",
+              "nodejs",
+              "shell-script",
+              "terminal",
+              "typos-suggestions",
+              "winston",
+              "zsh"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2734,12 +4348,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Flexible ascii progress bar for nodejs",
+            "homepage": null,
             "id": 1643317,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-13T23:42:44Z",
+            "open_issues": 70,
             "owner": "visionmedia",
             "repo": "node-progress",
-            "stars": 2987
+            "stars": 2987,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2750,12 +4369,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Access the system clipboard (copy/paste)",
+            "homepage": null,
             "id": 75538424,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-23T11:44:38Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "clipboardy",
-            "stars": 1983
+            "stars": 1983,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2766,12 +4390,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Update notifications for your CLI app",
+            "homepage": null,
             "id": 7069389,
             "language": "JavaScript",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-07-25T12:05:02Z",
+            "open_issues": 19,
             "owner": "sindresorhus",
             "repo": "update-notifier",
-            "stars": 1808
+            "stars": 1808,
+            "topics": [
+              "command-line-utility",
+              "node-module",
+              "notifications",
+              "npm-package",
+              "update-chec",
+              "update-notifier",
+              "updater"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2782,12 +4419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Create boxes in the terminal",
+            "homepage": null,
             "id": 48394154,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-09-19T03:55:38Z",
+            "open_issues": 9,
             "owner": "sindresorhus",
             "repo": "boxen",
-            "stars": 1675
+            "stars": 1675,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2798,12 +4440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IP address tools for node.js",
+            "homepage": null,
             "id": 5424019,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2024-08-20T06:56:14Z",
+            "open_issues": 88,
             "owner": "indutny",
             "repo": "node-ip",
-            "stars": 1544
+            "stars": 1544,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2814,12 +4461,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Toolkit for building command line interfaces",
+            "homepage": "https://npmjs.com/args",
             "id": 57441522,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-27T16:30:17Z",
+            "open_issues": 40,
             "owner": "leo",
             "repo": "args",
-            "stars": 464
+            "stars": 464,
+            "topics": [
+              "argv",
+              "cli",
+              "command-line",
+              "flags",
+              "minimist",
+              "parse"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2830,12 +4489,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reverse minimist. Convert an object of options into an array of command-line arguments",
+            "homepage": null,
             "id": 9533606,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-19T09:21:30Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "dargs",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2846,12 +4510,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalistic update notifications for command line interfaces",
+            "homepage": "https://npmjs.com/update-check",
             "id": 128489629,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-06-10T09:41:53Z",
+            "open_issues": 5,
             "owner": "vercel",
             "repo": "update-check",
-            "stars": 169
+            "stars": 169,
+            "topics": [
+              "checker",
+              "notification",
+              "package",
+              "update"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2862,12 +4536,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Check if a path is a file, directory, or symlink",
+            "homepage": null,
             "id": 41905436,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-02T19:08:22Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "path-type",
-            "stars": 81
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2878,12 +4557,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Clipboard access for CLI programs",
+            "homepage": null,
             "id": 12445081,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-11-15T20:51:34Z",
+            "open_issues": 1,
             "owner": "tj",
             "repo": "node-cliparoo",
-            "stars": 62
+            "stars": 62,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2894,12 +4578,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is a tiny utility to get local ip address with in node application",
+            "homepage": null,
             "id": 43117476,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2015-10-12T07:57:01Z",
+            "open_issues": 0,
             "owner": "aloksguha",
             "repo": "myip",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -2916,12 +4605,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:",
+            "homepage": "https://clipboardjs.com",
             "id": 42751014,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-12T18:51:57Z",
+            "open_issues": 16,
             "owner": "zenorocha",
             "repo": "clipboard.js",
-            "stars": 34119
+            "stars": 34120,
+            "topics": [
+              "clipboard",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2932,12 +4629,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A reactive programming library for JavaScript",
+            "homepage": "https://rxjs.dev",
             "id": 32247847,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-08T23:15:21Z",
+            "open_issues": 181,
             "owner": "ReactiveX",
             "repo": "rxjs",
-            "stars": 31703
+            "stars": 31702,
+            "topics": [
+              "javascript",
+              "rxjs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2948,12 +4653,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📊 The concise and progressive visualization grammar.",
+            "homepage": "https://g2.antv.antgroup.com",
             "id": 59737212,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-15T06:47:01Z",
+            "open_issues": 182,
             "owner": "antvis",
             "repo": "G2",
-            "stars": 12597
+            "stars": 12597,
+            "topics": [
+              "animation",
+              "canvas",
+              "chart",
+              "grammar",
+              "graphics",
+              "hacktoberfest",
+              "interaction",
+              "svg",
+              "visualization",
+              "webgl"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -2970,12 +4691,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248007
+            "stars": 248016,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -2986,12 +4719,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The library for web and native user interfaces.",
+            "homepage": "https://react.dev",
             "id": 10270250,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:10:40Z",
+            "open_issues": 1281,
             "owner": "react",
             "repo": "react",
-            "stars": 248007
+            "stars": 248016,
+            "topics": [
+              "declarative",
+              "frontend",
+              "javascript",
+              "library",
+              "react",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3002,12 +4747,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A JS library for predictable global state management",
+            "homepage": "https://redux.js.org",
             "id": 36535156,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-20T02:41:39Z",
+            "open_issues": 49,
             "owner": "reduxjs",
             "repo": "redux",
-            "stars": 61509
+            "stars": 61508,
+            "topics": [
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3018,12 +4770,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative routing for React",
+            "homepage": "https://reactrouter.com",
             "id": 19872456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:44:11Z",
+            "open_issues": 170,
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56576
+            "stars": 56577,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3034,12 +4791,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative routing for React",
+            "homepage": "https://reactrouter.com",
             "id": 19872456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:44:11Z",
+            "open_issues": 170,
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56576
+            "stars": 56577,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3050,12 +4812,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Declarative routing for React",
+            "homepage": "https://reactrouter.com",
             "id": 19872456,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T14:44:11Z",
+            "open_issues": 170,
             "owner": "remix-run",
             "repo": "react-router",
-            "stars": 56576
+            "stars": 56577,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3066,12 +4833,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official React bindings for Redux",
+            "homepage": "https://react-redux.js.org",
             "id": 38934449,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T04:06:50Z",
+            "open_issues": 58,
             "owner": "reduxjs",
             "repo": "react-redux",
-            "stars": 23448
+            "stars": 23448,
+            "topics": [
+              "react",
+              "redux"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3082,12 +4857,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RxJS middleware for action side effects in Redux using \"Epics\"",
+            "homepage": "https://redux-observable.js.org",
             "id": 56723754,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-11T12:57:00Z",
+            "open_issues": 54,
             "owner": "redux-observable",
             "repo": "redux-observable",
-            "stars": 7806
+            "stars": 7806,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3098,12 +4878,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": "https://reach.tech/router",
             "id": 134804788,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-08T19:53:14Z",
+            "open_issues": 173,
             "owner": "reach",
             "repo": "router",
-            "stars": 6826
+            "stars": 6826,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3120,12 +4905,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the repo for Vue 2. For Vue 3, go to https://github.com/vuejs/core",
+            "homepage": "http://v2.vuejs.org",
             "id": 11730342,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-10-10T07:24:15Z",
+            "open_issues": 636,
             "owner": "vuejs",
             "repo": "vue",
-            "stars": 210753
+            "stars": 210750,
+            "topics": [
+              "framework",
+              "frontend",
+              "javascript",
+              "vue"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3136,12 +4931,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐉 Vue Component Framework",
+            "homepage": "https://vuetifyjs.com",
             "id": 67962648,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T02:36:02Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T19:54:45Z",
+            "open_issues": 393,
             "owner": "vuetifyjs",
             "repo": "vuetify",
-            "stars": 41043
+            "stars": 41043,
+            "topics": [
+              "javascript",
+              "material",
+              "material-components",
+              "material-design",
+              "material-theme",
+              "semantic",
+              "typescript",
+              "ui",
+              "ui-components",
+              "ui-design",
+              "ui-kit",
+              "ui-library",
+              "vue",
+              "vue-components",
+              "vue-material",
+              "vuejs",
+              "vuejs3",
+              "vuetify",
+              "vuetifyjs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3152,12 +4972,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🛠️ webpack-based tooling for Vue.js Development",
+            "homepage": "https://cli.vuejs.org/",
             "id": 48626335,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-21T10:56:30Z",
+            "open_issues": 1070,
             "owner": "vuejs",
             "repo": "vue-cli",
-            "stars": 29546
+            "stars": 29546,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3174,12 +4999,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+            "homepage": "https://webpack.js.org",
             "id": 3678731,
             "language": "JavaScript",
-            "last_commit": "2026-08-28T16:17:13Z",
+            "license": "MIT",
+            "last_commit": "2026-08-28T21:57:53Z",
+            "open_issues": 131,
             "owner": "webpack",
             "repo": "webpack",
-            "stars": 65964
+            "stars": 65963,
+            "topics": [
+              "amd",
+              "build-tool",
+              "commonjs",
+              "compiler",
+              "es2015",
+              "es6",
+              "esm",
+              "javascript",
+              "javascript-compiler",
+              "javascript-modules",
+              "loaders",
+              "module-bundler",
+              "plugins",
+              "web",
+              "web-performance",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3190,12 +5037,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap",
+            "homepage": null,
             "id": 71966177,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T06:35:43Z",
+            "open_issues": 27,
             "owner": "webpack",
             "repo": "webpack-bundle-analyzer",
-            "stars": 12661
+            "stars": 12660,
+            "topics": [
+              "analyze",
+              "bundle",
+              "chart",
+              "interactive",
+              "size",
+              "treemap",
+              "webpack",
+              "webpack-bundle-analyzer"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3206,12 +5067,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tweak React components in real time. (Deprecated: use Fast Refresh instead.)",
+            "homepage": "http://gaearon.github.io/react-hot-loader/",
             "id": 21779020,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-02-10T02:42:07Z",
+            "open_issues": 462,
             "owner": "gaearon",
             "repo": "react-hot-loader",
-            "stars": 12165
+            "stars": 12165,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3222,12 +5088,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simplifies creation of HTML files to serve your webpack bundles",
+            "homepage": null,
             "id": 22744595,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-25T11:17:58Z",
+            "open_issues": 41,
             "owner": "jantimon",
             "repo": "html-webpack-plugin",
-            "stars": 10722
+            "stars": 10722,
+            "topics": [
+              "html-webpack-plugin",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3238,12 +5112,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "CSS Loader",
+            "homepage": null,
             "id": 3954884,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:10:50Z",
+            "open_issues": 31,
             "owner": "webpack",
             "repo": "css-loader",
-            "stars": 4321
+            "stars": 4321,
+            "topics": [
+              "css",
+              "loader",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3254,12 +5138,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] Please use https://github.com/webpack-contrib/mini-css-extract-plugin Extracts text from a bundle into a separate file",
+            "homepage": null,
             "id": 16297741,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-29T11:48:46Z",
+            "open_issues": 0,
             "owner": "webpack-contrib",
             "repo": "extract-text-webpack-plugin",
-            "stars": 3991
+            "stars": 3991,
+            "topics": [
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3270,12 +5161,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Sass to CSS",
+            "homepage": null,
             "id": 16665655,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:14:26Z",
+            "open_issues": 3,
             "owner": "webpack",
             "repo": "sass-loader",
-            "stars": 3893
+            "stars": 3893,
+            "topics": [
+              "dart-sass",
+              "loader",
+              "node-sass",
+              "sass",
+              "scss",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3286,12 +5190,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy files and directories with webpack",
+            "homepage": null,
             "id": 45010048,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-24T14:11:08Z",
+            "open_issues": 9,
             "owner": "webpack",
             "repo": "copy-webpack-plugin",
-            "stars": 2850
+            "stars": 2850,
+            "topics": [
+              "copy",
+              "file",
+              "files",
+              "filesystem",
+              "glob",
+              "webpack",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3302,12 +5219,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Merge designed for webpack",
+            "homepage": "https://www.npmjs.com/package/webpack-merge",
             "id": 38106307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-12T06:35:58Z",
+            "open_issues": 6,
             "owner": "survivejs",
             "repo": "webpack-merge",
-            "stars": 2683
+            "stars": 2683,
+            "topics": [
+              "merging-loaders",
+              "webpack",
+              "webpack-specifics"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3318,12 +5244,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A development middleware for webpack",
+            "homepage": null,
             "id": 5347074,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T11:56:01Z",
+            "open_issues": 12,
             "owner": "webpack",
             "repo": "webpack-dev-middleware",
-            "stars": 2511
+            "stars": 2511,
+            "topics": [
+              "middleware",
+              "webpack",
+              "webpack-dev-middleware"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3334,12 +5269,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Webpack hot reloading you can attach to your own server",
+            "homepage": null,
             "id": 34994276,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-12T19:55:40Z",
+            "open_issues": 83,
             "owner": "webpack",
             "repo": "webpack-hot-middleware",
-            "stars": 2378
+            "stars": 2378,
+            "topics": [
+              "defaults-exempt",
+              "middleware",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3350,12 +5294,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "File Loader",
+            "homepage": null,
             "id": 4253587,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-05T11:12:45Z",
+            "open_issues": 1,
             "owner": "webpack-contrib",
             "repo": "file-loader",
-            "stars": 1844
+            "stars": 1844,
+            "topics": [
+              "file",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3366,12 +5319,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Style Loader",
+            "homepage": null,
             "id": 3954886,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T15:58:51Z",
+            "open_issues": 9,
             "owner": "webpack",
             "repo": "style-loader",
-            "stars": 1667
+            "stars": 1667,
+            "topics": [
+              "loader",
+              "stylesheets",
+              "webpack",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3382,12 +5345,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A loader for webpack which transforms files into base64 URIs",
+            "homepage": null,
             "id": 4317511,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-03-15T14:54:21Z",
+            "open_issues": 4,
             "owner": "webpack-contrib",
             "repo": "url-loader",
-            "stars": 1395
+            "stars": 1395,
+            "topics": [
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3398,12 +5368,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Webpack plugin to optimize \\ minimize CSS assets.",
+            "homepage": null,
             "id": 49304920,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-07T17:53:46Z",
+            "open_issues": 41,
             "owner": "NMFR",
             "repo": "optimize-css-assets-webpack-plugin",
-            "stars": 1133
+            "stars": 1133,
+            "topics": [
+              "css-assets",
+              "css-processor",
+              "minimisation",
+              "minimization",
+              "minimizes",
+              "webpack-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3414,12 +5396,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Repository has moved:",
+            "homepage": "https://github.com/shellscape/webpack-serve",
             "id": 115440393,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-09-18T09:57:09Z",
+            "open_issues": 0,
             "owner": "webpack-contrib",
             "repo": "webpack-serve",
-            "stars": 1089
+            "stars": 1089,
+            "topics": [
+              "development",
+              "devserver",
+              "middleware",
+              "server",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3430,12 +5423,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[DEPRECATED] A ESlint loader for webpack",
+            "homepage": null,
             "id": 27577616,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-09-27T13:43:24Z",
+            "open_issues": 0,
             "owner": "webpack-contrib",
             "repo": "eslint-loader",
-            "stars": 1048
+            "stars": 1048,
+            "topics": [
+              "javascript",
+              "loader",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3446,12 +5448,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Compiles Less to CSS",
+            "homepage": null,
             "id": 4192593,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T15:23:00Z",
+            "open_issues": 3,
             "owner": "webpack",
             "repo": "less-loader",
-            "stars": 959
+            "stars": 959,
+            "topics": [
+              "less",
+              "webpack-loader"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3462,12 +5472,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Recognizes certain classes of webpack errors and cleans, aggregates and prioritizes them to provide a better Developer Experience.",
+            "homepage": null,
             "id": 65410396,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-16T00:02:45Z",
+            "open_issues": 58,
             "owner": "geowarin",
             "repo": "friendly-errors-webpack-plugin",
-            "stars": 741
+            "stars": 741,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3478,12 +5493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pug loader module for Webpack",
+            "homepage": null,
             "id": 3948748,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-07-28T15:17:26Z",
+            "open_issues": 50,
             "owner": "pugjs",
             "repo": "pug-loader",
-            "stars": 426
+            "stars": 426,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3500,12 +5520,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3516,12 +5549,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3532,12 +5578,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3548,12 +5607,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3564,12 +5636,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3580,12 +5665,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐠 Babel is a compiler for writing next generation JavaScript.",
+            "homepage": "https://babel.dev",
             "id": 24560307,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-28T02:39:56Z",
+            "open_issues": 777,
             "owner": "babel",
             "repo": "babel",
-            "stars": 43985
+            "stars": 43985,
+            "topics": [
+              "ast",
+              "babel",
+              "compiler",
+              "es2015",
+              "es6",
+              "flavortown",
+              "javascript"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3596,12 +5694,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📦 Babel loader for webpack",
+            "homepage": null,
             "id": 24963784,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-04T14:59:39Z",
+            "open_issues": 66,
             "owner": "babel",
             "repo": "babel-loader",
-            "stars": 4837
+            "stars": 4837,
+            "topics": [
+              "babel",
+              "loader",
+              "webpack"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3618,12 +5725,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit to automate & enhance your workflow",
+            "homepage": "https://gulpjs.com",
             "id": 11167738,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-09T06:30:13Z",
+            "open_issues": 34,
             "owner": "gulpjs",
             "repo": "gulp",
-            "stars": 32947
+            "stars": 32946,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3634,12 +5746,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify PNG, JPEG, GIF and SVG images",
+            "homepage": null,
             "id": 15533082,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-11T06:45:37Z",
+            "open_issues": 23,
             "owner": "sindresorhus",
             "repo": "gulp-imagemin",
-            "stars": 1904
+            "stars": 1904,
+            "topics": [
+              "compress-images",
+              "gulp-plugin",
+              "imagemin",
+              "javascript",
+              "minify-images",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3650,12 +5774,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Gulp plugin for Babel",
+            "homepage": "https://babeljs.io",
             "id": 24635108,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T18:39:23Z",
+            "open_issues": 33,
             "owner": "babel",
             "repo": "gulp-babel",
-            "stars": 1308
+            "stars": 1308,
+            "topics": [
+              "babel",
+              "gulp-plugin"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3666,12 +5798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minify files with UglifyJS",
+            "homepage": null,
             "id": 11188838,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2021-06-23T02:51:11Z",
+            "open_issues": 18,
             "owner": "terinjokes",
             "repo": "gulp-uglify",
-            "stars": 1212
+            "stars": 1212,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3682,12 +5819,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pipe CSS through PostCSS processors with a single parse",
+            "homepage": null,
             "id": 23041299,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-02-06T10:48:07Z",
+            "open_issues": 6,
             "owner": "postcss",
             "repo": "gulp-postcss",
-            "stars": 762
+            "stars": 762,
+            "topics": [
+              "gulp-plugin",
+              "javascript",
+              "postcss"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3698,12 +5844,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Only pass through changed files",
+            "homepage": null,
             "id": 16014885,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-10-07T11:06:24Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "gulp-changed",
-            "stars": 737
+            "stars": 737,
+            "topics": [
+              "gulp-plugin",
+              "javascript",
+              "nodejs"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3714,12 +5869,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rename files easily",
+            "homepage": null,
             "id": 14921398,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-07-16T05:30:05Z",
+            "open_issues": 11,
             "owner": "hparra",
             "repo": "gulp-rename",
-            "stars": 686
+            "stars": 686,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3730,12 +5890,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Conditionally run a task",
+            "homepage": null,
             "id": 15712612,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2020-06-19T17:01:11Z",
+            "open_issues": 9,
             "owner": "robrich",
             "repo": "gulp-if",
-            "stars": 645
+            "stars": 645,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3746,12 +5911,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A gulp 4 plugin to publish contents to Github pages",
+            "homepage": "https://pages.github.com/",
             "id": 17558946,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2019-12-14T16:57:26Z",
+            "open_issues": 12,
             "owner": "shinnn",
             "repo": "gulp-gh-pages",
-            "stars": 606
+            "stars": 606,
+            "topics": [
+              "deployment",
+              "git",
+              "github",
+              "github-pages",
+              "gulp-plugin",
+              "javascript",
+              "nodejs",
+              "release-automation",
+              "stream"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3762,12 +5942,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A LESS plugin for Gulp",
+            "homepage": null,
             "id": 11264371,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2021-06-20T16:51:24Z",
+            "open_issues": 10,
             "owner": "gulp-community",
             "repo": "gulp-less",
-            "stars": 558
+            "stars": 558,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3778,12 +5963,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A string replace plugin for gulp",
+            "homepage": null,
             "id": 15092603,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2022-12-17T16:36:56Z",
+            "open_issues": 15,
             "owner": "lazd",
             "repo": "gulp-replace",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3794,12 +5984,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple in-memory file cache for gulp",
+            "homepage": null,
             "id": 15873537,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2017-01-08T18:01:59Z",
+            "open_issues": 9,
             "owner": "gulp-community",
             "repo": "gulp-cached",
-            "stars": 453
+            "stars": 453,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3810,12 +6005,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "智图gulp插件",
+            "homepage": null,
             "id": 25983616,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2015-06-22T11:44:22Z",
+            "open_issues": 17,
             "owner": "targetkiller",
             "repo": "gulp-imageisux",
-            "stars": 378
+            "stars": 378,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3826,12 +6026,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pass through newer source files only",
+            "homepage": "https://npmjs.org/package/gulp-newer",
             "id": 15983348,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-26T14:19:52Z",
+            "open_issues": 29,
             "owner": "tschaub",
             "repo": "gulp-newer",
-            "stars": 221
+            "stars": 221,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3842,12 +6047,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Convert svg files to symbols ",
+            "homepage": "https://www.npmjs.com/package/gulp-svg-symbols",
             "id": 20790549,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-01-03T18:21:58Z",
+            "open_issues": 35,
             "owner": "Hiswe",
             "repo": "gulp-svg-symbols",
-            "stars": 168
+            "stars": 168,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3858,12 +6068,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A plugin for gulp that remembers and recalls files passed through it",
+            "homepage": null,
             "id": 18271693,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-14T11:49:16Z",
+            "open_issues": 0,
             "owner": "ahaurw01",
             "repo": "gulp-remember",
-            "stars": 149
+            "stars": 149,
+            "topics": [
+              "gulp",
+              "remember-files",
+              "stream"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3874,12 +6093,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "自动生成图片CSS属性，如：width & height 等",
+            "homepage": "https://www.npmjs.com/package/gulp-lazyimagecss",
             "id": 47930388,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-02-02T04:28:49Z",
+            "open_issues": 2,
             "owner": "weixin",
             "repo": "gulp-lazyimagecss",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3890,12 +6114,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Gulp plugin to convert YAML to JSON",
+            "homepage": null,
             "id": 22144680,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2019-05-01T12:10:37Z",
+            "open_issues": 1,
             "owner": "crissdev",
             "repo": "gulp-yaml",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "gulp-plugin",
+              "gulpplugin",
+              "javascript",
+              "json",
+              "stream",
+              "yaml",
+              "yml"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         },
@@ -3906,12 +6143,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "css svg to inline css",
+            "homepage": null,
             "id": 76860346,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2016-12-19T13:13:51Z",
+            "open_issues": 0,
             "owner": "weixin",
             "repo": "gulp-svg-inline",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3928,12 +6170,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Tasty CSS-animated Hamburgers",
+            "homepage": "https://jonsuh.com/hamburgers",
             "id": 52645453,
             "language": "SCSS",
+            "license": "MIT",
             "last_commit": "2023-05-24T01:21:02Z",
+            "open_issues": 34,
             "owner": "jonsuh",
             "repo": "hamburgers",
-            "stars": 7091
+            "stars": 7091,
+            "topics": [
+              "animation",
+              "css",
+              "hamburger",
+              "menu",
+              "sass"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3950,12 +6203,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies",
+            "homepage": null,
             "id": 96689748,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-05-12T17:09:57Z",
+            "open_issues": 67,
             "owner": "jaredreich",
             "repo": "pell",
-            "stars": 12046
+            "stars": 12046,
+            "topics": [
+              "contenteditable",
+              "editor",
+              "javascript",
+              "rich-text-editor",
+              "text-editing",
+              "text-editor",
+              "wysiwyg",
+              "wysiwyg-editor"
+            ]
           },
           "first_seen": "2026-08-28T16:56:08.149Z"
         }
@@ -3964,15 +6231,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T16:56:08.149Z",
+    "last_updated": "2026-08-29T05:00:46.247Z",
     "original_repository_info": {
       "archived": false,
+      "description": ":rocket: A collection of awesome npm packages for Noders.",
+      "homepage": "http://sqrthree.github.io/awesome-npm-packages",
       "id": 79244101,
       "language": "JavaScript",
+      "license": "MIT",
       "last_commit": "2021-01-19T08:56:33Z",
+      "open_issues": 0,
       "owner": "linhe0x0",
       "repo": "awesome-npm-packages",
-      "stars": 76
+      "stars": 76,
+      "topics": [
+        "awesome-list",
+        "nodejs-modules",
+        "npm-package",
+        "packages"
+      ]
     },
     "original_repository_sha": "c3e8040e3d9e32cc179209ab7e75b130be3ca2e2",
     "enhanced_repository": "enhansome/enhansome-npm-packages",
