@@ -1,6 +1,6 @@
 # awesome-npm-packages with stars
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 543,745 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 544,205 | 🐛 103 | 📅 2026-09-02
 
 这个仓库主要是收集一些非常好用的 npm package，主要面向使用 Node 的开发者。欢迎 Star 或 Fork。如果你有任何想法，或者知道一些好用的 package，请猛戳 PR 或 Issues 一起参与完善。非常欢迎您的参与，请在参与之前阅读 [贡献指南](contributing.md) 以更好的协作。
 
@@ -26,105 +26,105 @@
 
 ## 工具库
 
-* [eslint-config-airbnb](https://github.com/airbnb/javascript) ⭐ 148,013 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-16 - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+ 和 React。
-* [eslint-config-airbnb-base](https://github.com/airbnb/javascript) ⭐ 148,013 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-16 - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+。
-* [axios](https://github.com/mzabriskie/axios) ⭐ 109,490 | 🐛 143 | 🌐 JavaScript | 📅 2026-11-26 - 能够同时用于浏览器端和 Node.js 端的基于 Promise 的 HTTP 客户端。
-* [socket.io](https://github.com/socketio/socket.io/) ⭐ 63,262 | 🐛 218 | 🌐 TypeScript | 📅 2026-11-23 - 这可能是史上最强大的 socket 实现库了。
-* [lodash](https://github.com/lodash/lodash) ⭐ 61,413 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-01 -
+* [eslint-config-airbnb](https://github.com/airbnb/javascript) ⭐ 148,016 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-16 - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+ 和 React。
+* [eslint-config-airbnb-base](https://github.com/airbnb/javascript) ⭐ 148,016 | 🐛 170 | 🌐 JavaScript | 📅 2026-04-16 - Airbnb JavaScript 代码风格的 ESLint 配置文件，包含 ECMAScript 6+。
+* [axios](https://github.com/mzabriskie/axios) ⭐ 109,383 | 🐛 145 | 🌐 JavaScript | 📅 2026-11-26 - 能够同时用于浏览器端和 Node.js 端的基于 Promise 的 HTTP 客户端。
+* [socket.io](https://github.com/socketio/socket.io/) ⭐ 63,263 | 🐛 218 | 🌐 TypeScript | 📅 2026-11-23 - 这可能是史上最强大的 socket 实现库了。
+* [lodash](https://github.com/lodash/lodash) ⭐ 61,293 | 🐛 129 | 🌐 JavaScript | 📅 2026-10-01 -
   [![npm](https://img.shields.io/npm/dm/lodash.svg)](https://www.npmjs.com/package/lodash)
   [![npm](https://img.shields.io/npm/v/lodash.svg)](https://www.npmjs.com/package/lodash)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/lodash/lodash.svg)](https://github.com/lodash/lodash) ⭐ 61,413 | 🐛 128 | 🌐 JavaScript | 📅 2026-10-01
+  [![GitHub last commit](https://img.shields.io/github/last-commit/lodash/lodash.svg)](https://github.com/lodash/lodash) ⭐ 61,293 | 🐛 129 | 🌐 JavaScript | 📅 2026-10-01
   具有一致接口、模块化、高性能等特性的现代化 JavaScript 工具库。
 * [moment](https://github.com/moment/moment) ⭐ 47,869 | 🐛 74 | 🌐 JavaScript | 📅 2026-10-08 - 这可能是功能最强大的时间、日期处理库了。
-* [marked](https://github.com/chjj/marked) ⭐ 37,329 | 🐛 65 | 🌐 TypeScript | 📅 2026-11-25 - 又一个全功能的 Markdown 解析器。
-* [date-fns](https://github.com/date-fns/date-fns) ⭐ 36,661 | 🐛 1,152 | 🌐 TypeScript | 📅 2026-10-26 - 提供最全面、简单、一致的时间工具集，支持按需引入。
-* [cheerio](https://github.com/cheeriojs/cheerio) ⭐ 30,557 | 🐛 81 | 🌐 TypeScript | 📅 2026-11-27 - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
-* [sequelize](https://github.com/sequelize/sequelize) ⭐ 30,348 | 🐛 1,124 | 🌐 TypeScript | 📅 2026-11-26 - 简单易用、支持多 SQL 语言的 ORM 实现。
-* [eslint](https://github.com/eslint/eslint) ⭐ 27,652 | 🐛 158 | 🌐 JavaScript | 📅 2026-11-27 - 功能强大的 JavaScript 代码风格检查报告工具。
-* [mongoose](https://github.com/Automattic/mongoose) ⭐ 27,454 | 🐛 206 | 🌐 JavaScript | 📅 2026-11-27 - 基于异步环境的 MongoDB 对象模型设计库。
-* [underscore](https://github.com/jashkenas/underscore) ⭐ 27,294 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-15 - 跟 lodash 类似，提供了一系列有用的辅助函数。
-* [nanoid](https://github.com/ai/nanoid) ⭐ 27,148 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-25 - 轻量级、安全、URL 友好的唯一字符串生成器。
-* [request](https://github.com/request/request) ⭐ 25,475 | 🐛 145 | 🌐 JavaScript | 📅 2024-08-14 - 简单、强大的 HTTP 请求库。
-* [ramda](https://github.com/ramda/ramda) ⭐ 24,056 | 🐛 181 | 🌐 JavaScript | 📅 2026-10-12 - 完全函数式编程思想实现的 Javascript 实用工具库。
-* [validator](https://github.com/chriso/validator.js) ⭐ 23,736 | 🐛 575 | 🌐 JavaScript | 📅 2026-09-11 - 字符串格式校验工具。
-* [passport](https://github.com/jaredhanson/passport) ⭐ 23,514 | 🐛 399 | 🌐 JavaScript | 📅 2024-08-16 - 强大的用户身份验证中间件。
-* [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 22,065 | 🐛 22 | 🌐 TypeScript | 📅 2026-10-23 - 快速、易扩展的 Markdown 解析器。
-* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,451 | 🐛 131 | 🌐 JavaScript | 📅 2024-11-07 - 高性能的 promise 全特性实现库。
-* [pino](https://github.com/pinojs/pino) ⭐ 18,322 | 🐛 176 | 🌐 JavaScript | 📅 2026-11-27 - 拥有极高性能的日志分类管理的工具。
-* [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) ⭐ 18,182 | 🐛 219 | 🌐 JavaScript | 📅 2026-06-25 - JsonWebToken 在 Node 中的实践方案。
-* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,348 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 - 生成符合 RFC 规范的 UUID。
-* [ajv](https://github.com/epoberezkin/ajv) ⭐ 14,887 | 🐛 411 | 🌐 TypeScript | 📅 2026-09-06 - 性能极佳的 JSON Schema 验证工具。
-* [http-proxy](https://github.com/nodejitsu/node-http-proxy) ⭐ 14,116 | 🐛 618 | 🌐 JavaScript | 📅 2026-11-25 - 支持 websockets 的 HTTP 代理库。
-* [debug](https://github.com/visionmedia/debug) ⭐ 11,461 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-14 - 轻量级的兼容 Node 和浏览器环境的 debug log 管理工具。
-* [connect](https://github.com/senchalabs/connect) ⭐ 9,863 | 🐛 14 | 🌐 JavaScript | 📅 2024-09-27 - 使用中间件机制的可扩展的 HTTP 服务框架。
+* [marked](https://github.com/chjj/marked) ⭐ 37,330 | 🐛 60 | 🌐 TypeScript | 📅 2026-11-27 - 又一个全功能的 Markdown 解析器。
+* [date-fns](https://github.com/date-fns/date-fns) ⭐ 36,659 | 🐛 1,155 | 🌐 TypeScript | 📅 2026-10-26 - 提供最全面、简单、一致的时间工具集，支持按需引入。
+* [cheerio](https://github.com/cheeriojs/cheerio) ⭐ 30,559 | 🐛 79 | 🌐 TypeScript | 📅 2026-11-27 - 快速、灵活、针对服务端实现的 jQuery 核心 API 工具。
+* [sequelize](https://github.com/sequelize/sequelize) ⭐ 30,349 | 🐛 1,124 | 🌐 TypeScript | 📅 2026-11-26 - 简单易用、支持多 SQL 语言的 ORM 实现。
+* [eslint](https://github.com/eslint/eslint) ⭐ 27,656 | 🐛 159 | 🌐 JavaScript | 📅 2026-11-27 - 功能强大的 JavaScript 代码风格检查报告工具。
+* [mongoose](https://github.com/Automattic/mongoose) ⭐ 27,456 | 🐛 210 | 🌐 JavaScript | 📅 2026-11-27 - 基于异步环境的 MongoDB 对象模型设计库。
+* [underscore](https://github.com/jashkenas/underscore) ⭐ 27,292 | 🐛 53 | 🌐 JavaScript | 📅 2026-10-15 - 跟 lodash 类似，提供了一系列有用的辅助函数。
+* [nanoid](https://github.com/ai/nanoid) ⭐ 27,149 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-25 - 轻量级、安全、URL 友好的唯一字符串生成器。
+* [request](https://github.com/request/request) ⭐ 25,476 | 🐛 145 | 🌐 JavaScript | 📅 2024-08-14 - 简单、强大的 HTTP 请求库。
+* [ramda](https://github.com/ramda/ramda) ⭐ 24,056 | 🐛 182 | 🌐 JavaScript | 📅 2026-10-12 - 完全函数式编程思想实现的 Javascript 实用工具库。
+* [validator](https://github.com/chriso/validator.js) ⭐ 23,735 | 🐛 576 | 🌐 JavaScript | 📅 2026-09-11 - 字符串格式校验工具。
+* [passport](https://github.com/jaredhanson/passport) ⭐ 23,515 | 🐛 400 | 🌐 JavaScript | 📅 2024-08-16 - 强大的用户身份验证中间件。
+* [markdown-it](https://github.com/markdown-it/markdown-it) ⭐ 22,069 | 🐛 23 | 🌐 TypeScript | 📅 2026-10-23 - 快速、易扩展的 Markdown 解析器。
+* [bluebird](https://github.com/petkaantonov/bluebird) ⭐ 20,452 | 🐛 131 | 🌐 JavaScript | 📅 2024-11-07 - 高性能的 promise 全特性实现库。
+* [pino](https://github.com/pinojs/pino) ⭐ 18,323 | 🐛 176 | 🌐 JavaScript | 📅 2026-11-27 - 拥有极高性能的日志分类管理的工具。
+* [jsonwebtoken](https://github.com/auth0/node-jsonwebtoken) ⭐ 18,183 | 🐛 219 | 🌐 JavaScript | 📅 2026-06-25 - JsonWebToken 在 Node 中的实践方案。
+* [uuid](https://github.com/kelektiv/node-uuid) ⭐ 15,350 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-01 - 生成符合 RFC 规范的 UUID。
+* [ajv](https://github.com/epoberezkin/ajv) ⭐ 14,888 | 🐛 412 | 🌐 TypeScript | 📅 2026-09-06 - 性能极佳的 JSON Schema 验证工具。
+* [http-proxy](https://github.com/nodejitsu/node-http-proxy) ⭐ 14,117 | 🐛 618 | 🌐 JavaScript | 📅 2026-11-25 - 支持 websockets 的 HTTP 代理库。
+* [debug](https://github.com/visionmedia/debug) ⭐ 11,462 | 🐛 98 | 🌐 JavaScript | 📅 2026-10-14 - 轻量级的兼容 Node 和浏览器环境的 debug log 管理工具。
+* [connect](https://github.com/senchalabs/connect) ⭐ 9,864 | 🐛 14 | 🌐 JavaScript | 📅 2024-09-27 - 使用中间件机制的可扩展的 HTTP 服务框架。
 * [fs-extra](https://github.com/jprichardson/node-fs-extra) ⭐ 9,592 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-11 - 添加了很多原生 fs 模块中没有但实用的方法。
 * [kue](https://github.com/Automattic/kue) ⭐ 9,414 | 🐛 286 | 🌐 JavaScript | 📅 2024-02-12 - 基于 [redis](http://redis.io/) 实现的 消息队列服务。
-* [js-yaml](https://github.com/nodeca/js-yaml) ⭐ 6,639 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
+* [js-yaml](https://github.com/nodeca/js-yaml) ⭐ 6,640 | 🐛 10 | 🌐 TypeScript | 📅 2026-10-27 - 非常高效的 [YAML](http://en.wikipedia.org/wiki/YAML) 格式文件解析库。
 * [cross-env](https://github.com/kentcdodds/cross-env) ⚠️ Archived - 兼容多平台的环境变量设置和获取工具。
 * [config](https://github.com/lorenwest/node-config) ⭐ 6,435 | 🐛 20 | 🌐 JavaScript | 📅 2026-09-20 - Node 应用的配置文件统一管理工具。
-* [log4js](https://github.com/nomiddlename/log4js-node) ⭐ 5,823 | 🐛 99 | 🌐 JavaScript | 📅 2026-09-07 - 功能强大的日志管理工具，灵活适应多个环境。
-* [semver](https://github.com/npm/node-semver) ⭐ 5,480 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-05 - semver 语义化版本号解析器。
-* [node-forge](https://github.com/digitalbazaar/forge) ⭐ 5,356 | 🐛 442 | 🌐 JavaScript | 📅 2026-11-23 - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
-* [csv](https://github.com/wdavidw/node-csv) ⭐ 4,290 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-09 - 简洁而又功能强大的 CSV 格式解析器。
+* [log4js](https://github.com/nomiddlename/log4js-node) ⭐ 5,824 | 🐛 99 | 🌐 JavaScript | 📅 2026-09-07 - 功能强大的日志管理工具，灵活适应多个环境。
+* [semver](https://github.com/npm/node-semver) ⭐ 5,481 | 🐛 90 | 🌐 JavaScript | 📅 2026-11-05 - semver 语义化版本号解析器。
+* [node-forge](https://github.com/digitalbazaar/forge) ⭐ 5,357 | 🐛 442 | 🌐 JavaScript | 📅 2026-11-23 - [TLS](https://en.wikipedia.org/wiki/Transport_Layer_Security) 和其他各种加密方式的原生实现。
+* [csv](https://github.com/wdavidw/node-csv) ⭐ 4,290 | 🐛 91 | 🌐 JavaScript | 📅 2026-11-09 - 简洁而又功能强大的 CSV 格式解析器。
 * [nconf](https://github.com/indexzero/nconf) ⭐ 3,858 | 🐛 114 | 🌐 JavaScript | 📅 2026-07-25 - 通过解析配置文件、环境变量、命令行参数让你轻松进行配置数据分层处理。
 * [bcryptjs](https://github.com/dcodeIO/bcrypt.js) ⭐ 3,796 | 🐛 4 | 🌐 JavaScript | 📅 2026-10-01 - 更好的 bcrypt 解决方案。
-* [opn](https://github.com/sindresorhus/opn) ⭐ 3,522 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - 跨平台的打开指定文件或者网站的小工具。
-* [busboy](https://github.com/mscdex/busboy) ⭐ 3,000 | 🐛 42 | 🌐 JavaScript | 📅 2024-05-31 - 响应 HTML 表单数据的流解析器。
+* [opn](https://github.com/sindresorhus/opn) ⭐ 3,523 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-14 - 跨平台的打开指定文件或者网站的小工具。
+* [busboy](https://github.com/mscdex/busboy) ⭐ 3,001 | 🐛 41 | 🌐 JavaScript | 📅 2024-05-31 - 响应 HTML 表单数据的流解析器。
 * [tcomb](https://github.com/gcanti/tcomb) ⚠️ Archived - 兼容 Node 和浏览器环境的 Javascript 变量类型运行时检测工具。
 * [filesize](https://github.com/avoidwork/filesize.js) ⭐ 1,714 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-27 - 同样将文件大小格式的字符串转换成人类易读的字符串的工具。
 * [rabbit.js](https://github.com/squaremo/rabbit.js) ⭐ 1,511 | 🐛 45 | 🌐 JavaScript | 📅 2019-09-09 - 在 Node.JS 中使用 RabbitMQ 队列服务。
-* [mime-types](https://github.com/jshttp/mime-types) ⭐ 1,480 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-02 - 根据文件类型判断其 content-type。
-* [conf](https://github.com/sindresorhus/conf) ⭐ 1,376 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - 让你非常容易的对应用或模块做配置处理。
-* [del](https://github.com/sindresorhus/del) ⭐ 1,346 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - 删除指定的文件或目录。
-* [node-emoji](https://github.com/omnidan/node-emoji) ⭐ 1,342 | 🐛 19 | 🌐 TypeScript | 📅 2025-02-07 - ✨ 在 Node.js 环境中使用 emoji 表情。
-* [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) ⭐ 1,318 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
-* [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,301 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-12 - 文件系统模块的替代模块，优化了很多原生模块的不足。
+* [mime-types](https://github.com/jshttp/mime-types) ⭐ 1,481 | 🐛 26 | 🌐 JavaScript | 📅 2026-06-02 - 根据文件类型判断其 content-type。
+* [conf](https://github.com/sindresorhus/conf) ⭐ 1,378 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-12 - 让你非常容易的对应用或模块做配置处理。
+* [del](https://github.com/sindresorhus/del) ⭐ 1,347 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-08 - 删除指定的文件或目录。
+* [node-emoji](https://github.com/omnidan/node-emoji) ⭐ 1,343 | 🐛 19 | 🌐 TypeScript | 📅 2025-02-07 - ✨ 在 Node.js 环境中使用 emoji 表情。
+* [pretty-bytes](https://github.com/sindresorhus/pretty-bytes) ⭐ 1,319 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-26 - 将字节转换成人类易读的字符串，例如：1337 → 1.34 kB。
+* [graceful-fs](https://github.com/isaacs/node-graceful-fs) ⭐ 1,302 | 🐛 50 | 🌐 JavaScript | 📅 2026-11-12 - 文件系统模块的替代模块，优化了很多原生模块的不足。
 * [qr-image](https://github.com/alexeyten/qr-image) ⭐ 1,063 | 🐛 15 | 🌐 JavaScript | 📅 2024-02-23 - 二维码生成器。
-* [portfinder](https://github.com/indexzero/node-portfinder) ⭐ 899 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-21 - 当端口冲突时快速获取一个可用端口。
+* [portfinder](https://github.com/indexzero/node-portfinder) ⭐ 900 | 🐛 5 | 🌐 JavaScript | 📅 2025-11-21 - 当端口冲突时快速获取一个可用端口。
 * [yauzl](https://github.com/thejoshwolfe/yauzl) ⭐ 832 | 🐛 15 | 🌐 JavaScript | 📅 2026-06-07 - 对文件进行解压（unzip）的工具。
-* [delay](https://github.com/sindresorhus/delay) ⭐ 625 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 在一定的时间内延迟执行 Promise。
+* [delay](https://github.com/sindresorhus/delay) ⭐ 626 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 在一定的时间内延迟执行 Promise。
 * [detect-port](https://github.com/node-modules/detect-port) ⭐ 394 | 🐛 1 | 🌐 TypeScript | 📅 2026-02-24 - 端口检测器。
 * [recursive-readdir](https://github.com/jergason/recursive-readdir) ⭐ 342 | 🐛 24 | 🌐 JavaScript | 📅 2026-02-07 - 递归列出目录及其子目录中的所有文件，不会列出目录。
 * [lockfile](https://github.com/npm/lockfile) ⚠️ Archived - 轻量级的添加文件锁的实用工具。
-* [hosted-git-info](https://github.com/npm/hosted-git-info) ⭐ 240 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-30 - 解析和转换 git host URL。
+* [hosted-git-info](https://github.com/npm/hosted-git-info) ⭐ 241 | 🐛 13 | 🌐 JavaScript | 📅 2026-10-30 - 解析和转换 git host URL。
 * [md5-file](https://github.com/roryrjb/md5-file) ⭐ 213 | 🐛 2 | 🌐 JavaScript | 📅 2020-04-24 - 让你更轻松的计算文件的 MD5。
-* [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) ⭐ 197 | 🐛 13 | 🌐 JavaScript | 📅 2024-09-17 - 以一种更加友好（指出文件和行号）的方式反馈 [eslint](https://github.com/eslint/eslint) ⭐ 27,652 | 🐛 158 | 🌐 JavaScript | 📅 2026-11-27 的错误。
+* [eslint-friendly-formatter](https://github.com/royriojas/eslint-friendly-formatter) ⭐ 197 | 🐛 13 | 🌐 JavaScript | 📅 2024-09-17 - 以一种更加友好（指出文件和行号）的方式反馈 [eslint](https://github.com/eslint/eslint) ⭐ 27,656 | 🐛 159 | 🌐 JavaScript | 📅 2026-11-27 的错误。
 * [randomatic](https://github.com/jonschlinkert/randomatic) ⭐ 183 | 🐛 7 | 🌐 JavaScript | 📅 2023-07-28 - 随机字符串生成器。
 * [run-jxa](https://github.com/sindresorhus/run-jxa) ⭐ 157 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09 - 在 macOS 平台上通过 osascript 运行指定脚本。
-* [path-exists](https://github.com/sindresorhus/path-exists) ⭐ 155 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 检测指定的路径是否存在。
+* [path-exists](https://github.com/sindresorhus/path-exists) ⭐ 156 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 检测指定的路径是否存在。
 * [dark-mode](https://github.com/sindresorhus/node-dark-mode) ⭐ 120 | 🐛 0 | 🌐 JavaScript | 📅 2025-09-09 - 控制 macOS 的夜间模式状态。
 * [mkdirp](https://github.com/substack/node-mkdirp) - Shell 命令 `mkdir -p` 的实现。
 
 ## 网络服务框架
 
-* [express](https://github.com/expressjs/express) ⭐ 69,788 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-19 - 极简、灵活的 web 应用开发框架，提供了一系列强大的特性，帮助你创建各种Web 和移动设备应用。
-* [Meteor](https://github.com/meteor/meteor) ⭐ 44,790 | 🐛 458 | 🌐 JavaScript | 📅 2026-11-27 - 用来开发实时网页程序的前后端同构框架。
-* [fastify](https://github.com/fastify/fastify) ⭐ 37,467 | 🐛 213 | 🌐 JavaScript | 📅 2026-11-26 - 性能优先并开销极低的服务端框架。
-* [koa](https://github.com/koajs/koa) ⭐ 35,677 | 🐛 56 | 🌐 JavaScript | 📅 2026-11-27 - 由 express 原班人马打造的号称下一代的轻量级 web 应用开发框架。
+* [express](https://github.com/expressjs/express) ⭐ 69,670 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-19 - 极简、灵活的 web 应用开发框架，提供了一系列强大的特性，帮助你创建各种Web 和移动设备应用。
+* [Meteor](https://github.com/meteor/meteor) ⭐ 44,788 | 🐛 443 | 🌐 JavaScript | 📅 2026-11-28 - 用来开发实时网页程序的前后端同构框架。
+* [fastify](https://github.com/fastify/fastify) ⭐ 37,473 | 🐛 215 | 🌐 JavaScript | 📅 2026-11-28 - 性能优先并开销极低的服务端框架。
+* [koa](https://github.com/koajs/koa) ⭐ 35,679 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-28 - 由 express 原班人马打造的号称下一代的轻量级 web 应用开发框架。
 * [egg](https://github.com/eggjs/egg/) ⭐ 18,990 | 🐛 393 | 🌐 TypeScript | 📅 2026-11-17 - 阿里开源的为企业级框架和应用而生的服务端框架。
-* [hapi](https://github.com/hapijs/hapi) ⭐ 14,803 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-25 - 简单易用、以配置为中心的 web 服务框架。
+* [hapi](https://github.com/hapijs/hapi) ⭐ 14,804 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-25 - 简单易用、以配置为中心的 web 服务框架。
 * [restify](https://github.com/restify/node-restify) ⭐ 10,693 | 🐛 135 | 🌐 JavaScript | 📅 2026-10-23 - 专注于构建 REST API 服务的轻量级服务端框架。
-* [micro](https://github.com/zeit/micro) ⭐ 10,634 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-20 - 轻量级的微服务框架。
+* [micro](https://github.com/zeit/micro) ⭐ 10,635 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-20 - 轻量级的微服务框架。
 
 ## Express 中间件
 
 * [multer](https://github.com/expressjs/multer) ⭐ 12,089 | 🐛 174 | 🌐 JavaScript | 📅 2026-11-01 - 响应 `multipart/form-data` 的中间件。
 * [helmet](https://github.com/helmetjs/helmet) ⭐ 10,750 | 🐛 6 | 🌐 TypeScript | 📅 2026-11-23 - 通过设置各种 HTTP 请求头，提高 Express 应用的安全性。
-* [morgan](https://github.com/expressjs/morgan) ⭐ 8,201 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - Http 请求日志中间件。
-* [express-session](https://github.com/expressjs/session) ⭐ 6,356 | 🐛 105 | 🌐 JavaScript | 📅 2026-10-08 -  session 管理中间件。
+* [morgan](https://github.com/expressjs/morgan) ⭐ 8,202 | 🐛 27 | 🌐 JavaScript | 📅 2026-11-01 - Http 请求日志中间件。
+* [express-session](https://github.com/expressjs/session) ⭐ 6,356 | 🐛 106 | 🌐 JavaScript | 📅 2026-10-08 -  session 管理中间件。
 * [express-validator](https://github.com/ctavan/express-validator) ⭐ 6,230 | 🐛 78 | 🌐 TypeScript | 📅 2026-11-08 - 依赖 validator 工具库实现的 express 验证中间件。
-* [cors](https://github.com/expressjs/cors) ⭐ 6,198 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-02 - 用于启用 [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) 的中间件。
-* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,503 | 🐛 55 | 🌐 JavaScript | 📅 2026-11-15 - 解析请求体的中间件。
+* [cors](https://github.com/expressjs/cors) ⭐ 6,199 | 🐛 54 | 🌐 JavaScript | 📅 2026-06-02 - 用于启用 [CORS](http://en.wikipedia.org/wiki/Cross-origin_resource_sharing) 的中间件。
+* [body-parser](https://github.com/expressjs/body-parser) ⭐ 5,504 | 🐛 55 | 🌐 JavaScript | 📅 2026-11-15 - 解析请求体的中间件。
 * [connect-redis](https://github.com/tj/connect-redis) ⭐ 2,819 | 🐛 0 | 🌐 TypeScript | 📅 2026-11-16 - Redis session 存储中间件。
-* [compression](https://github.com/expressjs/compression) ⭐ 2,808 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-01 - 请求压缩中间件，支持 deflate、gzip 编码压缩。
+* [compression](https://github.com/expressjs/compression) ⭐ 2,809 | 🐛 31 | 🌐 JavaScript | 📅 2026-10-01 - 请求压缩中间件，支持 deflate、gzip 编码压缩。
 * [csurf](https://github.com/expressjs/csurf) ⚠️ Archived -  [CSRF](https://en.wikipedia.org/wiki/Cross-site_request_forgery) 中间件。
-* [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,035 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 处理 Cookie 的中间件。
-* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,421 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-12 - 提供静态文件服务。
+* [cookie-parser](https://github.com/expressjs/cookie-parser) ⭐ 2,036 | 🐛 34 | 🌐 JavaScript | 📅 2026-06-03 - 处理 Cookie 的中间件。
+* [serve-static](https://github.com/expressjs/serve-static) ⭐ 1,422 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-12 - 提供静态文件服务。
 * [cookie-session](https://github.com/expressjs/cookie-session) ⭐ 1,150 | 🐛 19 | 🌐 JavaScript | 📅 2026-08-05 - 基于 Cookie 实现 session 管理的中间件。
 * [vhost](https://github.com/expressjs/vhost) ⭐ 767 | 🐛 11 | 🌐 JavaScript | 📅 2026-11-01 - 很方便的域名处理中间节。
 * [serve-favicon](https://github.com/expressjs/serve-favicon) ⭐ 627 | 🐛 8 | 🌐 JavaScript | 📅 2026-02-01 - favicon 服务中间节。
 * [response-time](https://github.com/expressjs/response-time) ⭐ 497 | 🐛 8 | 🌐 JavaScript | 📅 2026-06-03 - 记录请求响应时间的中间件。
-* [serve-index](https://github.com/expressjs/serve-index) ⭐ 449 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-05 - 基于给定的路径渲染出目录列表。
+* [serve-index](https://github.com/expressjs/serve-index) ⭐ 450 | 🐛 43 | 🌐 JavaScript | 📅 2026-08-05 - 基于给定的路径渲染出目录列表。
 * [errorhandler](https://github.com/expressjs/errorhandler) ⭐ 425 | 🐛 6 | 🌐 JavaScript | 📅 2026-06-01 - 用于开发环境处理错误信息的中间件。
 * [connect-timeout](https://github.com/expressjs/timeout) ⭐ 318 | 🐛 19 | 🌐 JavaScript | 📅 2026-06-03 - 设置和管理请求超时时间的中间件。
 
@@ -150,12 +150,12 @@
 
 ## 测试工具
 
-* [mocha](https://github.com/mochajs/mocha) ⭐ 22,906 | 🐛 249 | 🌐 JavaScript | 📅 2026-11-27 - 简单、灵活、强大的 Node.js 单元测试框架。
+* [mocha](https://github.com/mochajs/mocha) ⭐ 22,906 | 🐛 249 | 🌐 JavaScript | 📅 2026-11-28 - 简单、灵活、强大的 Node.js 单元测试框架。
 * [ava](https://github.com/avajs/ava) ⭐ 20,822 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-26 - 面向未来的 Javascript 单元测试框架。
-* [supertest](https://github.com/visionmedia/supertest) ⭐ 14,416 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-07 - 专注测试 HTTP 服务的一款非常强大的测试工具。
+* [supertest](https://github.com/visionmedia/supertest) ⭐ 14,418 | 🐛 3 | 🌐 JavaScript | 📅 2026-11-07 - 专注测试 HTTP 服务的一款非常强大的测试工具。
 * [istanbul](https://github.com/gotwarlost/istanbul) ⚠️ Archived - 测试代码覆盖率检测工具。
-* [chai](https://github.com/chaijs/chai) ⭐ 8,262 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-23 - 兼容所有测试框架的跨平台 BDD / TDD 风格断言库，支持 Node.js 和浏览器。
-* [nyc](https://github.com/istanbuljs/nyc) ⭐ 5,758 | 🐛 206 | 🌐 JavaScript | 📅 2026-05-17 - 支持 [ava](https://github.com/avajs/ava) ⭐ 20,822 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-26 的 [istanbul](https://github.com/gotwarlost/istanbul) ⚠️ Archived 风格测试代码覆盖率检测工具。
+* [chai](https://github.com/chaijs/chai) ⭐ 8,263 | 🐛 29 | 🌐 JavaScript | 📅 2026-11-23 - 兼容所有测试框架的跨平台 BDD / TDD 风格断言库，支持 Node.js 和浏览器。
+* [nyc](https://github.com/istanbuljs/nyc) ⭐ 5,759 | 🐛 206 | 🌐 JavaScript | 📅 2026-05-17 - 支持 [ava](https://github.com/avajs/ava) ⭐ 20,822 | 🐛 61 | 🌐 JavaScript | 📅 2026-11-26 的 [istanbul](https://github.com/gotwarlost/istanbul) ⚠️ Archived 风格测试代码覆盖率检测工具。
 * [rewire](https://github.com/jhnns/rewire) ⭐ 3,085 | 🐛 52 | 🌐 JavaScript | 📅 2025-12-11 - 对指定模块的私有成员进行单元测试。
 * [power-assert](https://github.com/power-assert-js/power-assert) ⭐ 2,806 | 🐛 43 | 🌐 JavaScript | 📅 2023-01-07 - 没有记忆成本的断言库，大多数情况只需使用`assert()`一个方法即可。
 * [expect.js](https://github.com/Automattic/expect.js) ⭐ 2,093 | 🐛 86 | 🌐 JavaScript | 📅 2023-01-14 - 基于 [should](https://github.com/shouldjs/should.js) ⚠️ Archived 的 BDD 风格断言库。
@@ -168,34 +168,34 @@
 
 ## 命令行工具
 
-* [json-server](https://github.com/typicode/json-server) ⭐ 75,748 | 🐛 726 | 🌐 JavaScript | 📅 2026-11-27 - 零配置构建全能 REST API 风格的数据 Mock 服务器。
-* [pm2](https://github.com/Unitech/pm2) ⭐ 43,343 | 🐛 1,082 | 🌐 JavaScript | 📅 2026-11-21 - 强大的负载均衡和进程管理工具。
-* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,457 | 🐛 2,055 | 🌐 JavaScript | 📅 2026-05-12 - 快速、可靠和安全的依赖管理工具。
+* [json-server](https://github.com/typicode/json-server) ⭐ 75,749 | 🐛 726 | 🌐 JavaScript | 📅 2026-11-27 - 零配置构建全能 REST API 风格的数据 Mock 服务器。
+* [pm2](https://github.com/Unitech/pm2) ⭐ 43,344 | 🐛 1,083 | 🌐 JavaScript | 📅 2026-11-21 - 强大的负载均衡和进程管理工具。
+* [yarn](https://github.com/yarnpkg/yarn) ⭐ 41,458 | 🐛 2,055 | 🌐 JavaScript | 📅 2026-05-12 - 快速、可靠和安全的依赖管理工具。
 * [lerna](https://github.com/lerna/lerna) ⭐ 36,031 | 🐛 307 | 🌐 TypeScript | 📅 2026-11-26 - 同时管理多个包的 Javascript 项目管理工具。
-* [eslint](https://github.com/eslint/eslint) ⭐ 27,652 | 🐛 158 | 🌐 JavaScript | 📅 2026-11-27 - Javascript 代码风格工具。
-* [nodemon](https://github.com/remy/nodemon) ⭐ 26,664 | 🐛 15 | 🌐 JavaScript | 📅 2026-11-02 - 开发阶段的应用热重载工具。
-* [mjml](https://github.com/mjmlio/mjml) ⭐ 18,307 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-26 - 轻松创建响应式邮件的命令行工具。
+* [eslint](https://github.com/eslint/eslint) ⭐ 27,656 | 🐛 159 | 🌐 JavaScript | 📅 2026-11-27 - Javascript 代码风格工具。
+* [nodemon](https://github.com/remy/nodemon) ⭐ 26,664 | 🐛 16 | 🌐 JavaScript | 📅 2026-11-02 - 开发阶段的应用热重载工具。
+* [mjml](https://github.com/mjmlio/mjml) ⭐ 18,309 | 🐛 59 | 🌐 JavaScript | 📅 2026-11-26 - 轻松创建响应式邮件的命令行工具。
 * [npm](https://github.com/npm/npm) ⚠️ Archived - Node.js 包管理工具。
-* [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,505 | 🐛 195 | 🌐 JavaScript | 📅 2026-11-16 - 让你轻松写成符合社区建议的 commit 格式的交互式工具。
-* [coffee-script](https://github.com/jashkenas/coffeescript) ⭐ 16,597 | 🐛 99 | 🌐 CoffeeScript | 📅 2026-10-25 - 一种采用优雅的语法并编译到 JavaScript 的小语种。
+* [commitizen](https://github.com/commitizen/cz-cli) ⭐ 17,502 | 🐛 195 | 🌐 JavaScript | 📅 2026-11-16 - 让你轻松写成符合社区建议的 commit 格式的交互式工具。
+* [coffee-script](https://github.com/jashkenas/coffeescript) ⭐ 16,594 | 🐛 99 | 🌐 CoffeeScript | 📅 2026-10-25 - 一种采用优雅的语法并编译到 JavaScript 的小语种。
 * [node-inspector](https://github.com/node-inspector/node-inspector) ⭐ 12,639 | 🐛 243 | 🌐 JavaScript | 📅 2018-02-08 - 基于 Blink 开发者工具的 Node.js 应用调试器。
 * [nodeppt](https://github.com/ksky521/nodePPT) ⚠️ Archived - 功能强大的网页版演示库。
 * [serve](https://github.com/zeit/serve) ⭐ 9,917 | 🐛 154 | 🌐 TypeScript | 📅 2026-11-13 - 用于开发阶段的本地静态文件服务工具。
-* [gifify](https://github.com/vvo/gifify) ⭐ 6,331 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-27 - 通过命令行将视频转换为 GIF 动态图片。
+* [gifify](https://github.com/vvo/gifify) ⭐ 6,330 | 🐛 26 | 🌐 JavaScript | 📅 2026-10-27 - 通过命令行将视频转换为 GIF 动态图片。
 * [carbon-now-cli](https://github.com/mixn/carbon-now-cli) ⭐ 6,033 | 🐛 8 | 🌐 TypeScript | 📅 2025-11-14 - 在终端使用 carbon.now\.sh 服务。
 * [font-spider](https://github.com/aui/font-spider) ⭐ 5,139 | 🐛 81 | 🌐 JavaScript | 📅 2022-12-30 - 智能 WebFont 压缩工具，它能自动分析出页面使用的 WebFont 并进行按需压缩。
 * [gitmoji-cli](https://github.com/carloscuesta/gitmoji-cli) ⭐ 4,828 | 🐛 19 | 🌐 JavaScript | 📅 2026-11-02 - 在 commit 信息中使用 emojis 的交互式工具。
 * [nrm](https://github.com/Pana/nrm) ⭐ 3,014 | 🐛 33 | 🌐 TypeScript | 📅 2025-07-13 - 非常方便的 NPM 源管理工具。
 * [ngrok](https://github.com/bubenshchykov/ngrok) ⭐ 2,413 | 🐛 50 | 🌐 JavaScript | 📅 2025-06-19 - ngrok 2 的 Node 版。
 * [ionic](https://github.com/driftyco/ionic-cli) ⭐ 1,999 | 🐛 367 | 🌐 TypeScript | 📅 2026-07-10 - [Ionic](http://ionicframework.com/) 的命令行工具。
-* [express-generator](https://github.com/expressjs/generator) ⭐ 1,848 | 🐛 79 | 🌐 JavaScript | 📅 2026-03-02 - [Express](https://github.com/expressjs/express) ⭐ 69,788 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-19 应用目录生成器。
+* [express-generator](https://github.com/expressjs/generator) ⭐ 1,848 | 🐛 79 | 🌐 JavaScript | 📅 2026-03-02 - [Express](https://github.com/expressjs/express) ⭐ 69,670 | 🐛 267 | 🌐 JavaScript | 📅 2026-11-19 应用目录生成器。
 * [trash-cli](https://github.com/sindresorhus/trash-cli) ⭐ 1,421 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-18 - 移动文件至垃圾桶中，安心的删除文件。
 * [slush](https://github.com/slushjs/slush) ⭐ 1,222 | 🐛 17 | 🌐 JavaScript | 📅 2018-11-04 - 基于流的应用脚手架生成器。
 * [puer](https://github.com/leeluolee/puer) ⭐ 1,198 | 🐛 30 | 🌐 JavaScript | 📅 2020-06-24 - 具有 web 服务、自动重载、Mock 数据等多种功能的前端开发效率提升工具。
-* [koa-generator](https://github.com/17koa/koa-generator) ⭐ 964 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-07 - [Koa](https://github.com/koajs/koa) ⭐ 35,677 | 🐛 56 | 🌐 JavaScript | 📅 2026-11-27 应用目录生成器。
+* [koa-generator](https://github.com/17koa/koa-generator) ⭐ 964 | 🐛 18 | 🌐 JavaScript | 📅 2023-02-07 - [Koa](https://github.com/koajs/koa) ⭐ 35,679 | 🐛 57 | 🌐 JavaScript | 📅 2026-11-28 应用目录生成器。
 * [gitbook-cli](https://github.com/GitbookIO/gitbook-cli) ⚠️ Archived - GitBook 的命令行工具。
 * [fecs](https://github.com/ecomfe/fecs) ⭐ 637 | 🐛 56 | 🌐 JavaScript | 📅 2020-12-24 - 百度出品的前端代码风格工具。
-* [tldr](https://github.com/tldr-pages/tldr-node-client) ⭐ 463 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-23 - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,330 | 🐛 312 | 🌐 Markdown | 📅 2026-11-27 的命令行工具。
+* [tldr](https://github.com/tldr-pages/tldr-node-client) ⭐ 463 | 🐛 25 | 🌐 JavaScript | 📅 2026-11-23 - [tldr](https://github.com/tldr-pages/tldr) ⭐ 64,329 | 🐛 323 | 🌐 Markdown | 📅 2026-11-28 的命令行工具。
 * [npms-cli](https://github.com/npms-io/npms-cli) ⭐ 261 | 🐛 8 | 🌐 JavaScript | 📅 2023-11-29 - 命令行版的 npm package 搜索器。
 * [gh-pages-deploy](https://github.com/meandavejustice/gh-pages-deploy) ⭐ 208 | 🐛 12 | 🌐 JavaScript | 📅 2026-11-10 - 通过读取 package.json 里的配置自动发布内容到 gh-pages
 * [hexo-cli](https://github.com/hexojs/hexo-cli) ⭐ 176 | 🐛 11 | 🌐 TypeScript | 📅 2026-10-11 - 静态博客系统 Hexo 的命令行工具。
@@ -204,30 +204,30 @@
 
 ## 命令行开发工具库
 
-* [commander](https://github.com/tj/commander.js) ⭐ 28,468 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-27 - 开发命令行工具的完整解决方案。
+* [commander](https://github.com/tj/commander.js) ⭐ 28,472 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-27 - 开发命令行工具的完整解决方案。
 * [chalk](https://github.com/chalk/chalk) ⭐ 23,344 | 🐛 1 | 🌐 JavaScript | 📅 2026-10-22 - 让你的终端字符变得丰富多彩、五颜六色。
-* [inquirer](https://github.com/sboudrias/Inquirer.js) ⭐ 21,643 | 🐛 16 | 🌐 TypeScript | 📅 2026-11-27 - 提供了常见的几种交互式式命令行形式。
-* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,397 | 🐛 130 | 🌐 JavaScript | 📅 2026-10-25 - 执行 Unix shell 命令。
-* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,276 | 🐛 13 | 🌐 TypeScript | 📅 2026-11-06 - 更好的 fs.watch / fs.watchFile 替代方案。
-* [yargs](https://github.com/yargs/yargs) ⭐ 11,507 | 🐛 200 | 🌐 JavaScript | 📅 2026-11-26 - 轻松解析命令行参数。
-* [ora](https://github.com/sindresorhus/ora) ⭐ 9,776 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - 非常方便的实现终端 loading 动画效果。
+* [inquirer](https://github.com/sboudrias/Inquirer.js) ⭐ 21,643 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-27 - 提供了常见的几种交互式式命令行形式。
+* [shelljs](https://github.com/shelljs/shelljs) ⭐ 14,398 | 🐛 131 | 🌐 JavaScript | 📅 2026-10-25 - 执行 Unix shell 命令。
+* [chokidar](https://github.com/paulmillr/chokidar) ⭐ 12,277 | 🐛 14 | 🌐 TypeScript | 📅 2026-11-06 - 更好的 fs.watch / fs.watchFile 替代方案。
+* [yargs](https://github.com/yargs/yargs) ⭐ 11,509 | 🐛 201 | 🌐 JavaScript | 📅 2026-11-26 - 轻松解析命令行参数。
+* [ora](https://github.com/sindresorhus/ora) ⭐ 9,777 | 🐛 0 | 🌐 JavaScript | 📅 2026-10-31 - 非常方便的实现终端 loading 动画效果。
 * [signale](https://github.com/klauscfhq/signale) ⭐ 9,168 | 🐛 39 | 🌐 JavaScript | 📅 2026-04-06 - 带有丰富的 loggers 并且 Hackable 的终端优雅输出工具。
-* [glob](https://github.com/isaacs/node-glob) ⭐ 8,710 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - 使用 shell 模式来匹配文件路径。
-* [execa](https://github.com/sindresorhus/execa) ⭐ 7,683 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - 更好用的 `child_process` 替代方案。
-* [consola](https://github.com/nuxt/consola) ⭐ 7,382 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-25 - 用于开发 CLI 应用的优雅输出工具。
+* [glob](https://github.com/isaacs/node-glob) ⭐ 8,711 | 🐛 1 | 🌐 TypeScript | 📅 2026-11-25 - 使用 shell 模式来匹配文件路径。
+* [execa](https://github.com/sindresorhus/execa) ⭐ 7,689 | 🐛 1 | 🌐 JavaScript | 📅 2026-11-18 - 更好用的 `child_process` 替代方案。
+* [consola](https://github.com/nuxt/consola) ⭐ 7,388 | 🐛 109 | 🌐 TypeScript | 📅 2026-11-28 - 用于开发 CLI 应用的优雅输出工具。
 * [node-notifier](https://github.com/mikaelbr/node-notifier) ⭐ 5,846 | 🐛 13 | 🌐 TypeScript | 📅 2026-10-31 - 跨平台的发送系统原生通知的工具。
 * [ssh2](https://github.com/mscdex/ssh2) ⭐ 5,830 | 🐛 118 | 🌐 JavaScript | 📅 2026-08-20 - SSH2 的客户端和服务端实现方案。
-* [colors](https://github.com/Marak/colors.js) ⭐ 5,159 | 🐛 90 | 🌐 JavaScript | 📅 2026-10-21 - 又一个给控制台中的字符添加颜色和样式的工具库。
+* [colors](https://github.com/Marak/colors.js) ⭐ 5,160 | 🐛 90 | 🌐 JavaScript | 📅 2026-10-21 - 又一个给控制台中的字符添加颜色和样式的工具库。
 * [caporal](https://github.com/mattallty/Caporal.js) ⭐ 3,444 | 🐛 28 | 🌐 TypeScript | 📅 2024-01-03 - 特性全面的开发命令行工具框架。
-* [progress](https://github.com/visionmedia/node-progress) ⭐ 2,986 | 🐛 71 | 🌐 JavaScript | 📅 2023-02-13 - 在终端实现的 ascii loading 效果，提供了丰富灵活的配置。
+* [progress](https://github.com/visionmedia/node-progress) ⭐ 2,987 | 🐛 71 | 🌐 JavaScript | 📅 2023-02-13 - 在终端实现的 ascii loading 效果，提供了丰富灵活的配置。
 * [clipboardy](https://github.com/sindresorhus/clipboardy) ⭐ 1,981 | 🐛 0 | 🌐 JavaScript | 📅 2026-07-23 - 提供跨平台级的剪贴板操作支持。
 * [update-notifier](https://github.com/yeoman/update-notifier) ⭐ 1,814 | 🐛 19 | 🌐 JavaScript | 📅 2026-07-25 - 以非侵入性的方式（使用子进程“异步”检测）检查全局的包是否需要更新并自动通知用户。
 * [boxen](https://github.com/sindresorhus/boxen) ⭐ 1,678 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-21 - 在终端中创建出盒子（矩形）。
-* [ip](https://github.com/indutny/node-ip) ⭐ 1,541 | 🐛 88 | 🌐 JavaScript | 📅 2024-08-20 - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
+* [ip](https://github.com/indutny/node-ip) ⭐ 1,542 | 🐛 88 | 🌐 JavaScript | 📅 2024-08-20 - 提供了一些实用的 IP 相关的方法。可以获取 IP 地址、比较 IP地址和验证 IP 地址等。
 * [args](https://github.com/leo/args) ⭐ 462 | 🐛 40 | 🌐 JavaScript | 📅 2023-02-27 - 开发命令行工具一个轻量级解决方案。
 * [dargs](https://github.com/sindresorhus/dargs) ⭐ 187 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 将对象反向序列化为命令行参数形式的数组。
 * [update-check](https://github.com/zeit/update-check) ⭐ 169 | 🐛 5 | 🌐 JavaScript | 📅 2024-06-10 - 通过暂时阻塞命令执行的“同步”方式检测全局的包是否需要更新。
-* [path-type](https://github.com/sindresorhus/path-type) ⭐ 81 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 检测指定的路径是否是文件、目录的工具库。
+* [path-type](https://github.com/sindresorhus/path-type) ⭐ 82 | 🐛 0 | 🌐 JavaScript | 📅 2026-09-18 - 检测指定的路径是否是文件、目录的工具库。
 * [cliparoo](https://github.com/tj/node-cliparoo) ⭐ 62 | 🐛 1 | 🌐 JavaScript | 📅 2015-11-15 - 复制指定字符串到系统剪贴板。
 * [quick-local-ip](https://github.com/aloksguha/myip) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2015-10-12 - 快速获取本机 ip 的小工具。
 * [mkdirp](https://github.com/substack/node-mkdirp) - `mkdir -p` 命令的 Node 实现。
@@ -235,63 +235,63 @@
 ## 前端 JS 库
 
 * [clipboard.js](https://github.com/zenorocha/clipboard.js) ⭐ 34,068 | 🐛 16 | 🌐 JavaScript | 📅 2026-02-12 - 这可能是最好用的复制到剪贴板的工具库了。
-* [rxjs](https://github.com/ReactiveX/RxJS) ⭐ 31,715 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - 大名鼎鼎的 Reactive 反应式编程的 JS 实现。
-* [g2](https://github.com/antvis/g2) ⭐ 12,678 | 🐛 176 | 🌐 TypeScript | 📅 2026-11-25 - 蚂蚁金服出品的数据可视化库。
+* [rxjs](https://github.com/ReactiveX/RxJS) ⭐ 31,719 | 🐛 205 | 🌐 TypeScript | 📅 2026-11-19 - 大名鼎鼎的 Reactive 反应式编程的 JS 实现。
+* [g2](https://github.com/antvis/g2) ⭐ 12,678 | 🐛 179 | 🌐 TypeScript | 📅 2026-11-25 - 蚂蚁金服出品的数据可视化库。
 
 ## React 周边
 
-* [react](https://github.com/facebook/react) ⭐ 253,019 | 🐛 1,604 | 🌐 JavaScript | 📅 2026-11-26 - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架。
-* [react-dom](https://github.com/facebook/react) ⭐ 253,019 | 🐛 1,604 | 🌐 JavaScript | 📅 2026-11-26 - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架 React 的 DOM 端。
+* [react](https://github.com/facebook/react) ⭐ 252,836 | 🐛 1,619 | 🌐 JavaScript | 📅 2026-11-26 - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架。
+* [react-dom](https://github.com/facebook/react) ⭐ 252,836 | 🐛 1,619 | 🌐 JavaScript | 📅 2026-11-26 - Facebook 开发的大名鼎鼎的构建用户界面的轻量级框架 React 的 DOM 端。
 * [redux](https://github.com/reactjs/redux) ⭐ 61,422 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 - 可预测的 JavaScript 应用程序的状态管理容器。
-* [react-router-dom](https://github.com/reacttraining/react-router) ⭐ 56,653 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-24 - 为 [react](https://github.com/facebook/react) ⭐ 253,019 | 🐛 1,604 | 🌐 JavaScript | 📅 2026-11-26 而生的声明式路由库。
-* [react-router-config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config) ⭐ 56,653 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-24 - React Router 的静态路由配置助手。
-* [react-router-redux](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) ⭐ 56,653 | 🐛 194 | 🌐 TypeScript | 📅 2026-11-24 - 将你的应用状态和路由保持同步。
-* [react-redux](https://github.com/reactjs/react-redux) ⭐ 23,423 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-26 - [Redux](https://github.com/reactjs/redux) ⭐ 61,422 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 官方实现的绑定至 React 库。
+* [react-router-dom](https://github.com/reacttraining/react-router) ⭐ 56,655 | 🐛 195 | 🌐 TypeScript | 📅 2026-11-27 - 为 [react](https://github.com/facebook/react) ⭐ 252,836 | 🐛 1,619 | 🌐 JavaScript | 📅 2026-11-26 而生的声明式路由库。
+* [react-router-config](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-config) ⭐ 56,655 | 🐛 195 | 🌐 TypeScript | 📅 2026-11-27 - React Router 的静态路由配置助手。
+* [react-router-redux](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-redux) ⭐ 56,655 | 🐛 195 | 🌐 TypeScript | 📅 2026-11-27 - 将你的应用状态和路由保持同步。
+* [react-redux](https://github.com/reactjs/react-redux) ⭐ 23,424 | 🐛 12 | 🌐 TypeScript | 📅 2026-11-26 - [Redux](https://github.com/reactjs/redux) ⭐ 61,422 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 官方实现的绑定至 React 库。
 * [redux-observable](https://github.com/redux-observable/redux-observable) ⭐ 7,804 | 🐛 54 | 🌐 TypeScript | 📅 2026-08-11 - 在 [redux](https://github.com/reactjs/redux) ⭐ 61,422 | 🐛 17 | 🌐 TypeScript | 📅 2026-11-24 中使用 RxJS 的中间件。
 * [@reach/router](https://github.com/reach/router) ⭐ 6,813 | 🐛 172 | 🌐 JavaScript | 📅 2022-12-08 - React Router 原作者打造的另一款具有极简 API 的轻量级路由库。
 
 ## Vue 周边
 
-* [vue](https://github.com/vuejs/vue) ⭐ 212,551 | 🐛 640 | 🌐 TypeScript | 📅 2024-10-10 - 构建 Web UI 的渐进式 JavaScript 框架。
-* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,045 | 🐛 334 | 🌐 TypeScript | 📅 2026-11-26 - Material 设计风格的 UI 组件库。
+* [vue](https://github.com/vuejs/vue) ⭐ 212,494 | 🐛 641 | 🌐 TypeScript | 📅 2024-10-10 - 构建 Web UI 的渐进式 JavaScript 框架。
+* [vuetify](https://github.com/vuetifyjs/vuetify) ⭐ 41,046 | 🐛 331 | 🌐 TypeScript | 📅 2026-11-28 - Material 设计风格的 UI 组件库。
 * [vue-cli](https://github.com/vuejs/vue-cli) ⭐ 29,482 | 🐛 1,067 | 🌐 JavaScript | 📅 2025-08-21 - Vue 项目脚手架。
 
 ## webpack 周边
 
-* [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 - 目前为止最强大的 JS 模块加载器。
-* [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) ⭐ 12,657 | 🐛 20 | 🌐 JavaScript | 📅 2026-11-16 - 非常实用的 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 构建分析器。
+* [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 - 目前为止最强大的 JS 模块加载器。
+* [webpack-bundle-analyzer](https://github.com/th0r/webpack-bundle-analyzer) ⭐ 12,657 | 🐛 20 | 🌐 JavaScript | 📅 2026-11-16 - 非常实用的 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 构建分析器。
 * [react-hot-loader](https://github.com/gaearon/react-hot-loader) ⭐ 12,146 | 🐛 463 | 🌐 JavaScript | 📅 2023-02-10 - React 组件热重载插件。
-* [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) ⭐ 10,719 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-07 - 自动创建 HTMl 文件供 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 打包使用。
-* [css-loader](https://github.com/webpack-contrib/css-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的 CSS 加载器。
+* [html-webpack-plugin](https://github.com/jantimon/html-webpack-plugin) ⭐ 10,720 | 🐛 49 | 🌐 JavaScript | 📅 2026-09-07 - 自动创建 HTMl 文件供 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 打包使用。
+* [css-loader](https://github.com/webpack-contrib/css-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的 CSS 加载器。
 * [extract-text-webpack-plugin](https://github.com/webpack-contrib/extract-text-webpack-plugin) ⚠️ Archived - 从文件中提取特定的内容。
-* [sass-loader](https://github.com/webpack-contrib/sass-loader) ⭐ 3,887 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-20 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的 Sass 加载器。
-* [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin) ⚠️ Archived - 在 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 中执行复制文件和文件夹的任务。
-* [webpack-merge](https://github.com/survivejs/webpack-merge) ⭐ 2,679 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-12 - 合并多个 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 配置参数。
-* [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) ⭐ 2,507 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-26 - [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 开发服务器中间间。
-* [webpack-hot-middleware](https://github.com/glenjamin/webpack-hot-middleware) ⚠️ Archived - [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 热重载中间间。
-* [file-loader](https://github.com/webpack-contrib/file-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的文件加载器。
+* [sass-loader](https://github.com/webpack-contrib/sass-loader) ⭐ 3,888 | 🐛 7 | 🌐 JavaScript | 📅 2026-11-20 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的 Sass 加载器。
+* [copy-webpack-plugin](https://github.com/kevlened/copy-webpack-plugin) ⚠️ Archived - 在 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 中执行复制文件和文件夹的任务。
+* [webpack-merge](https://github.com/survivejs/webpack-merge) ⭐ 2,680 | 🐛 6 | 🌐 TypeScript | 📅 2024-07-12 - 合并多个 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 配置参数。
+* [webpack-dev-middleware](https://github.com/webpack/webpack-dev-middleware) ⭐ 2,508 | 🐛 4 | 🌐 JavaScript | 📅 2026-11-26 - [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 开发服务器中间间。
+* [webpack-hot-middleware](https://github.com/glenjamin/webpack-hot-middleware) ⚠️ Archived - [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 热重载中间间。
+* [file-loader](https://github.com/webpack-contrib/file-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的文件加载器。
 * [style-loader](https://github.com/webpack-contrib/style-loader) ⚠️ Archived - 将 CSS 样式添加至 style 标签中。
-* [url-loader](https://github.com/webpack-contrib/url-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的静态资源 URL 服务加载器。
+* [url-loader](https://github.com/webpack-contrib/url-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的静态资源 URL 服务加载器。
 * [optimize-css-assets-webpack-plugin](https://github.com/NMFR/optimize-css-assets-webpack-plugin) ⭐ 1,130 | 🐛 41 | 🌐 JavaScript | 📅 2022-12-07 - CSS 静态资源压缩、最小化的插件。
 * [webpack-serve](https://github.com/webpack-contrib/webpack-serve) ⚠️ Archived - 精简、现代、灵活的 webpack 开发服务器。
-* [eslint-loader](https://github.com/MoOx/eslint-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的 eslint 加载器。
-* [less-loader](https://github.com/webpack-contrib/less-loader) ⭐ 961 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-20 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的 Less 加载器。
-* [friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) ⚠️ Archived - 非常好用的改善 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 的错误提醒插件。
-* [pug-loader](https://github.com/pugjs/pug-loader) ⭐ 424 | 🐛 50 | 🌐 JavaScript | 📅 2022-07-28 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的模板引擎 pug 加载器。
+* [eslint-loader](https://github.com/MoOx/eslint-loader) ⚠️ Archived - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的 eslint 加载器。
+* [less-loader](https://github.com/webpack-contrib/less-loader) ⭐ 962 | 🐛 8 | 🌐 JavaScript | 📅 2026-11-20 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的 Less 加载器。
+* [friendly-errors-webpack-plugin](https://github.com/geowarin/friendly-errors-webpack-plugin) ⚠️ Archived - 非常好用的改善 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 的错误提醒插件。
+* [pug-loader](https://github.com/pugjs/pug-loader) ⭐ 424 | 🐛 50 | 🌐 JavaScript | 📅 2022-07-28 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的模板引擎 pug 加载器。
 
 ## babel 周边
 
-* [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - babel 核心实现。
-* [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - 编译 ES2015 的 babel 插件。
-* [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - 编译 React 的 babel 插件。
-* [babel-preset-stage-1](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - 编译 ES stage 1 阶段的 babel 插件。
-* [babel-preset-stage-2](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - 编译 ES stage 2 阶段的 babel 插件。
-* [babel-preset-stage-3](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3) ⭐ 44,075 | 🐛 738 | 🌐 TypeScript | 📅 2026-11-27 - 编译 ES stage 3 阶段的 babel 插件。
-* [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,831 | 🐛 67 | 🌐 JavaScript | 📅 2026-11-14 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,015 | 🐛 105 | 🌐 JavaScript | 📅 2026-11-27 服务的 babel 加载器。
+* [babel-core](https://github.com/babel/babel/tree/master/packages/babel-core) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - babel 核心实现。
+* [babel-preset-es2015](https://github.com/babel/babel/tree/master/packages/babel-preset-es2015) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - 编译 ES2015 的 babel 插件。
+* [babel-preset-react](https://github.com/babel/babel/tree/master/packages/babel-preset-react) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - 编译 React 的 babel 插件。
+* [babel-preset-stage-1](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-1) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - 编译 ES stage 1 阶段的 babel 插件。
+* [babel-preset-stage-2](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-2) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - 编译 ES stage 2 阶段的 babel 插件。
+* [babel-preset-stage-3](https://github.com/babel/babel/tree/master/packages/babel-preset-stage-3) ⭐ 44,071 | 🐛 743 | 🌐 TypeScript | 📅 2026-11-28 - 编译 ES stage 3 阶段的 babel 插件。
+* [babel-loader](https://github.com/babel/babel-loader) ⭐ 4,832 | 🐛 67 | 🌐 JavaScript | 📅 2026-11-14 - 为 [webpack](https://github.com/webpack/webpack) ⭐ 66,019 | 🐛 104 | 🌐 JavaScript | 📅 2026-11-28 服务的 babel 加载器。
 
 ## gulp 周边
 
-* [gulp](https://github.com/gulpjs/gulp) ⭐ 32,913 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-09 - 基于流的前端自动化构建工具。
+* [gulp](https://github.com/gulpjs/gulp) ⭐ 32,912 | 🐛 30 | 🌐 JavaScript | 📅 2026-02-09 - 基于流的前端自动化构建工具。
 * [gulp-imagemin](https://github.com/sindresorhus/gulp-imagemin) ⭐ 1,901 | 🐛 23 | 🌐 JavaScript | 📅 2026-09-18 - 在 Gulp 中自动进行图片压缩。
 * [gulp-babel](https://github.com/babel/gulp-babel) ⭐ 1,304 | 🐛 33 | 🌐 JavaScript | 📅 2026-11-05 - [Babel](https://babeljs.io/) 的 Gulp 插件。
 * [gulp-uglify](https://github.com/terinjokes/gulp-uglify) ⭐ 1,208 | 🐛 17 | 🌐 JavaScript | 📅 2021-06-23 - 使用 UglifyJS2 来压缩 JS 文件。
@@ -323,4 +323,4 @@
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
